@@ -1,0 +1,891 @@
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https'){
+   bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+  }
+  else{
+  bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+  }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>欢迎来到我的博客 | YF&#39;s blog</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+    <meta name="keywords" content="YF,YF's Blog,hexo" />
+  
+  <meta name="description" content="欢迎来到我的博客，这只是一个测试页面～这怕不是第N次这样了…">
+<meta property="og:type" content="article">
+<meta property="og:title" content="欢迎来到我的博客">
+<meta property="og:url" content="https://www.yfblog.cf/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/index.html">
+<meta property="og:site_name" content="YF&#39;s blog">
+<meta property="og:description" content="欢迎来到我的博客，这只是一个测试页面～这怕不是第N次这样了…">
+<meta property="og:locale" content="zh">
+<meta property="article:published_time" content="2020-04-12T06:14:37.000Z">
+<meta property="article:modified_time" content="2020-04-12T06:16:20.800Z">
+<meta property="article:author" content="YF">
+<meta name="twitter:card" content="summary">
+  
+  
+    <link rel="icon" href="/favicon.ico">
+  
+  <link href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+<script src="/js/pace.min.js"></script>
+
+  
+
+  
+  
+
+  <script  type="text/javascript" charset="utf-8">  
+window.onload=function()  
+{  
+    var moveSpan222=$('#moveSpan');  
+    //alert(moveSpan222);  
+    drag(moveSpan222);  
+    if(isIEtest){//当浏览器是IE时  
+        com.whuang.hsj.$$id('moveSpan').onselectstart=function()//禁止文本被选中  
+        {  
+            return false;  
+        }  
+    }  
+}  
+ </script>  
+
+    <script>
+var OriginTitle = document.title;
+var titleTime;
+document.addEventListener('visibilitychange', function () {
+    if (document.hidden) {
+        $('[rel="icon"]').attr('href', "/funny.ico");
+        document.title = '╭(°A°`)╮ 页面崩溃啦 ~快回来看看';
+        clearTimeout(titleTime);
+    }
+    else {
+        $('[rel="icon"]').attr('href', "/favicon.ico");
+        document.title = '嗷嗷嗷，又好啦 ~ (ฅ>ω<*ฅ) ' + OriginTitle;
+        titleTime = setTimeout(function () {
+            document.title = OriginTitle;
+        }, 2000);
+    }
+});
+
+    </script>
+<style>
+.cannot_select{  
+    -moz-user-select:none;/*火狐*/  
+    -webkit-user-select:none;/*webkit浏览器*/  
+    -ms-user-select:none;/*IE10*/  
+    -khtml-user-select:none;/*早期浏览器*/  
+    user-select:none;  
+}  
+.text-popup {
+    animation: textPopup 1s;
+    color: red;
+    user-select: none;
+    white-space: nowrap;
+    position: absolute;
+    z-index: 99;
+}
+@keyframes textPopup {
+    0%, 100% {
+        opacity: 0;
+    }
+    5% {
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(-50px);    
+    }
+}
+</style>
+<script>
+var fnTextPopup = function (arr, options) {
+    // arr参数是必须的
+    if (!arr || !arr.length) {
+        return;    
+    }
+    // 主逻辑
+    var index = 0;
+    document.documentElement.addEventListener('click', function (event) {
+        var x = event.pageX, y = event.pageY;
+        var eleText = document.createElement('span');
+        eleText.className = 'text-popup';
+        this.appendChild(eleText);
+        if (arr[index]) {
+            eleText.innerHTML = arr[index];
+        } else {
+            index = 0;
+            eleText.innerHTML = arr[0];
+        }
+        // 动画结束后删除自己
+        eleText.addEventListener('animationend', function () {
+            eleText.parentNode.removeChild(eleText);
+        });
+        // 位置
+        eleText.style.left = (x - eleText.clientWidth / 2) + 'px';
+        eleText.style.top = (y - eleText.clientHeight) + 'px';
+        // index递增
+        index++;
+    });    
+};
+
+fnTextPopup(['富强', '民主', '文明', '和谐', '自由', '平等', '公正', '法治', '爱国', '敬业', '诚信', '友善']);
+</script>
+<script>
+
+function click(){ 
+　　if(event.button==2){ 
+　　　　alert( 'YF的博客欢迎您，请不要查看网页源代码哟！\n\n求你了QAQ\n\n弹出：1/3'); 　　　
+
+　alert( 'YF的博客欢迎您，请不要查看网页源代码哟！\n\n求你了QAQ\n\n弹出：2/3'); 
+　　　　alert( 'YF的博客欢迎您，请不要查看网页源代码哟！\n\n求你了QAQ\n\n弹出：3/3'); 
+
+　　} } 
+document.onmousedown=click
+</script>
+<script>
+if (typeof(document.onselectstart) != “undefined”) {
+// IE下禁止元素被选取
+document.onselectstart = function (event){
+if(event.target.tagName!=”INPUT”){
+return false;
+}
+}
+} else {
+// firefox下禁止元素被选取的变通办法
+document.onmousedown = function (event){
+if(event.target.tagName!=”INPUT”){
+return false;
+}
+}
+document.onmouseup = function(event){
+if(event.target.tagName!=”INPUT”){
+return false;
+}
+}
+}
+document.oncontextmenu = function(){return false;}//阻止右键菜单
+
+document.onkeydown = function(e) {
+var e=e||event;
+if (e.ctrlKey==1 && e.keyCode==67) return false;
+}//防止ctrl+C
+
+document.body.oncopy = function (){return false;} //阻止复制
+
+//IE下阻止选中
+
+document.onselectstart = function(){return false;}
+//火狐下 CSS
+
+//<body style=”-moz-user-select: none; “>
+</script>
+<script language=JavaScript>
+
+<!--
+
+if (top.location != self.location)top.location=self.location;
+
+//
+
+-->
+
+</script>
+<script type="text/javascript">
+
+if (window!=top) // 判断当前的window对象是否是top对象
+
+top.location.href =window.location.href; // 如果不是，将top对象的网址自动导向被嵌入网页的网址
+
+</script>
+<meta name="generator" content="Hexo 4.2.0"></head>
+
+<body>
+  <div id="container">
+      <header id="header">
+    <div id="banner"></div>
+    <div id="header-outer">
+        <div id="header-menu" class="header-menu-pos animated">
+            <div class="header-menu-container">
+                <a href="/" class="left">
+                    <span class="site-title">YF&#39;s Blog</span>
+                </a>
+                <nav id="header-menu-nav" class="right">
+                    
+                    <a  href="/">
+                        <i class="fa fa-home"></i>
+                        <span>Home</span>
+                    </a>
+                    
+                    <a  href="/archives">
+                        <i class="fa fa-archive"></i>
+                        <span>Archives</span>
+                    </a>
+                    
+                    <a  href="/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/index.html">
+                        <i class="fa fa-user"></i>
+                        <span>友情链接</span>
+                    </a>
+                    
+                </nav>
+                <a class="mobile-header-menu-button">
+                    <i class="fa fa-bars"></i>
+                </a>
+            </div>
+        </div>
+        <div id="header-row">
+            <div id="logo">
+                <a href="/">
+                    <img src="https://s1.ax1x.com/2020/04/12/GLutJ0.png" alt="logo">
+                </a>
+            </div>
+            <div class="header-info">
+                <div id="header-title">
+                    
+                    <h2>
+                        YF&#39;s Blog
+                    </h2>
+                    
+                </div>
+                <div id="header-description">
+                    
+                    <h3>
+                        YF的博客
+                    </h3>
+                    
+                </div>
+            </div>
+            <nav class="header-nav">
+                <div class="social">
+                    
+                </div>
+            </nav>
+        </div>
+    </div>
+</header>
+      <div class="outer">
+        <section id="main" class="body-wrap"><article id="post-欢迎来到我的博客" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-inner">
+    
+      <header class="article-header">
+        
+  
+    <h1 class="post-title" itemprop="name">
+      欢迎来到我的博客
+    </h1>
+    <div class="post-title-bar">
+      <ul>
+          
+        <li>
+          <i class="fa fa-calendar"></i>  2020-04-12
+        </li>
+        <li>
+          <i class="fa fa-eye"></i>
+          <span id="busuanzi_value_page_pv"></span>
+        </li>
+      </ul>
+    </div>
+  
+
+          
+      </header>
+    
+    <div class="article-entry post-content" itemprop="articleBody">
+      
+            
+            <h3>欢迎来到我的博客，这只是一个测试页面～这怕不是第N次这样了…<h3>
+
+            <div class="post-copyright">
+    <div class="content">
+        <p>最后更新： 2020年04月12日 14:16</p>
+        <p>原始链接： <a class="post-url" href="/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/" title="欢迎来到我的博客">https://www.yfblog.cf/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</a></p>
+        <footer>
+            <a href="https://www.yfblog.cf">
+                <img src="https://s1.ax1x.com/2020/04/12/GLutJ0.png" alt="YF">
+                YF
+            </a>
+        </footer>
+    </div>
+</div>
+
+      
+        
+            
+<div class="page-reward">
+    <a id="rewardBtn" href="javascript:;">赏</a>
+</div>
+
+<div id="reward" class="post-modal reward-lay">
+    <a class="close" href="javascript:;" id="reward-close">×</a>
+    <span class="reward-title">
+        <i class="icon icon-quote-left"></i>
+        请我吃糖~
+        <i class="icon icon-quote-right"></i>
+    </span>
+    <div class="reward-content">
+        
+        <div class="reward-code">
+            <img id="rewardCode" src="/u/7" alt="打赏二维码">
+        </div>
+        <div class="reward-select">
+            
+            <label class="reward-select-item checked" data-id="wechat" data-wechat="/u/7">
+                <img class="reward-select-item-wechat" src="/images/wechat.png" alt="微信">
+            </label>
+            
+            
+        </div>
+    </div>
+</div>
+
+
+        
+    </div>
+    <footer class="article-footer">
+        
+        
+<div class="post-share">
+    <a href="javascript:;" id="share-sub" class="post-share-fab">
+        <i class="fa fa-share-alt"></i>
+    </a>
+    <div class="post-share-list" id="share-list">
+        <ul class="share-icons">
+          <li>
+            <a class="weibo share-sns" target="_blank" href="http://service.weibo.com/share/share.php?url=https://www.yfblog.cf/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/&title=《欢迎来到我的博客》 — YF's blog&pic=https://s1.ax1x.com/2020/04/12/GLutJ0.png" data-title="微博">
+              <i class="fa fa-weibo"></i>
+            </a>
+          </li>
+          <li>
+            <a class="weixin share-sns" id="wxFab" href="javascript:;" data-title="微信">
+              <i class="fa fa-weixin"></i>
+            </a>
+          </li>
+          <li>
+            <a class="qq share-sns" target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://www.yfblog.cf/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/&title=《欢迎来到我的博客》 — YF's blog&source=" data-title="QQ">
+              <i class="fa fa-qq"></i>
+            </a>
+          </li>
+          <li>
+            <a class="facebook share-sns" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.yfblog.cf/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/" data-title="Facebook">
+              <i class="fa fa-facebook"></i>
+            </a>
+          </li>
+          <li>
+            <a class="twitter share-sns" target="_blank" href="https://twitter.com/intent/tweet?text=《欢迎来到我的博客》 — YF's blog&url=https://www.yfblog.cf/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/&via=https://www.yfblog.cf" data-title="Twitter">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+          <li>
+            <a class="google share-sns" target="_blank" href="https://plus.google.com/share?url=https://www.yfblog.cf/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/" data-title="Google+">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        </ul>
+     </div>
+</div>
+<div class="post-modal wx-share" id="wxShare">
+    <a class="close" href="javascript:;" id="wxShare-close">×</a>
+    <p>扫一扫，分享到微信</p>
+    <img src="//api.qrserver.com/v1/create-qr-code/?data=https://www.yfblog.cf/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/" alt="微信分享二维码">
+</div>
+
+<div class="mask"></div>
+
+        
+        <ul class="article-footer-menu">
+            
+            
+        </ul>
+        
+    </footer>
+  </div>
+</article>
+
+
+    <aside class="post-toc-pos post-toc-top" id="post-toc">
+        <nav class="post-toc-wrap">
+            <ol class="post-toc"><li class="post-toc-item post-toc-level-3"><a class="post-toc-link" href="#"><span class="post-toc-text">欢迎来到我的博客，这只是一个测试页面～这怕不是第N次这样了…
+</span></a></li><li class="post-toc-item post-toc-level-3"><a class="post-toc-link" href="#"><span class="post-toc-text">
+</span></a></li></ol>
+        </nav>
+    </aside>
+    
+
+<nav id="article-nav">
+  
+  
+    <a href="/2020/04/12/hello-world/" id="article-nav-older" class="article-nav-link-wrap">
+      <span class="article-nav-title">Hello World</span>
+      <i class="fa fa-hand-o-right" aria-hidden="true"></i>
+    </a>
+  
+</nav>
+
+
+
+    
+</section>
+        
+      </div>
+      <footer id="footer">
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      
+<p>
+    <span id="busuanzi_container_site_uv" style='display:none'>
+        总访客数：<span id="busuanzi_value_site_uv"></span>
+    </span>
+    <span id="busuanzi_container_site_pv" style='display:none'>
+        总访问量：<span id="busuanzi_value_site_pv"></span>
+    </span>
+</p>
+
+
+      <p>
+        Powered by  <a href="/" target="_blank">YF</a>
+        ©Copyright YF 2019-2020<p>声明：如有来函说明本网站所提供内容的版权由其本人或其经授权代表
+
+的其他人所享有，并提供必要的证明文件，本网站在核实后，有权先行撤除，以保护版权人的权益。
+<p>
+
+<!-- 网站运行时间的设置 -->
+<span id="timeDate">Loading..</span>
+<span id="times"></span> 
+<script>
+    var now = new Date();
+    function createtime() {
+        var grt= new Date("2/25/2020 19:00:21");
+        now.setTime(now.getTime()+250);
+        days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days);
+        hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours);
+        if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 
+
+60 * dnum) - (60 * hnum);
+        mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;}
+        seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+        snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;}
+        document.getElementById("timeDate").innerHTML = "小破站已安全运行 "+dnum+" 天 ";
+        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum 
+
++ " 秒";
+    }
+setInterval("createtime()",250);
+</script>
+
+      </p>
+    </div>
+  </div>
+</footer>
+<canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" 
+
+></canvas> 
+<script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script> 
+<script type="text/javascript" src="fireworks.js"></script>
+<script> "use strict";function updateCoords(e){pointerX=(e.clientX||e.touches[0].clientX)-
+
+canvasEl.getBoundingClientRect().left,pointerY=e.clientY||e.touches[0].clientY-
+
+canvasEl.getBoundingClientRect().top}function setParticuleDirection(e){var t=anime.random
+
+(0,360)*Math.PI/180,a=anime.random(50,180),n=[-1,1][anime.random(0,1)]*a;return{x:e.x
+
++n*Math.cos(t),y:e.y+n*Math.sin(t)}}function createParticule(e,t){var a={};return 
+
+a.x=e,a.y=t,a.color=colors[anime.random(0,colors.length-1)],a.radius=anime.random
+
+(16,32),a.endPos=setParticuleDirection(a),a.draw=function(){ctx.beginPath(),ctx.arc
+
+(a.x,a.y,a.radius,0,2*Math.PI,!0),ctx.fillStyle=a.color,ctx.fill()},a}function createCircle(e,t){var a=
+
+{};return a.x=e,a.y=t,a.color="#F00",a.radius=0.1,a.alpha=0.5,a.lineWidth=6,a.draw=function()
+
+{ctx.globalAlpha=a.alpha,ctx.beginPath(),ctx.arc(a.x,a.y,a.radius,0,2*Math.PI,!
+
+0),ctx.lineWidth=a.lineWidth,ctx.strokeStyle=a.color,ctx.stroke(),ctx.globalAlpha=1},a}function 
+
+renderParticule(e){for(var t=0;t<e.animatables.length;t++){e.animatables[t].target.draw()}}
+
+function animateParticules(e,t){for(var a=createCircle(e,t),n=[],i=0;i<numberOfParticules;i++)
+
+{n.push(createParticule(e,t))}anime.timeline().add({targets:n,x:function(e){return 
+
+e.endPos.x},y:function(e){return e.endPos.y},radius:0.1,duration:anime.random
+
+(1200,1800),easing:"easeOutExpo",update:renderParticule}).add({targets:a,radius:anime.random
+
+(80,160),lineWidth:0,alpha:{value:0,easing:"linear",duration:anime.random
+
+(600,800)},duration:anime.random
+
+(1200,1800),easing:"easeOutExpo",update:renderParticule,offset:0})}function debounce(e,t){var 
+
+a;return function(){var n=this,i=arguments;clearTimeout(a),a=setTimeout(function(){e.apply
+
+(n,i)},t)}}var canvasEl=document.querySelector(".fireworks");if(canvasEl){var 
+
+ctx=canvasEl.getContext
+
+("2d"),numberOfParticules=30,pointerX=0,pointerY=0,tap="mousedown",colors=
+
+["#FF1461","#18FF92","#5A87FF","#FBF38C"],setCanvasSize=debounce(function()
+
+{canvasEl.width=2*window.innerWidth,canvasEl.height=2*window.innerHeight,canvasEl.style.wi
+
+dth=window.innerWidth+"px",canvasEl.style.height=window.innerHeight
+
++"px",canvasEl.getContext("2d").scale(2,2)},500),render=anime({duration:1/0,update:function()
+
+{ctx.clearRect(0,0,canvasEl.width,canvasEl.height)}});document.addEventListener(tap,function(e)
+
+{"sidebar"!==e.target.id&&"toggle-sidebar"!==e.target.id&&"A"!
+
+==e.target.nodeName&&"IMG"!==e.target.nodeName&&(render.play(),updateCoords
+
+(e),animateParticules(pointerX,pointerY))},!1),setCanvasSize(),window.addEventListener
+
+("resize",setCanvasSize,!1)}"use strict";function updateCoords(e){pointerX=(e.clientX||e.touches
+
+[0].clientX)-canvasEl.getBoundingClientRect().left,pointerY=e.clientY||e.touches[0].clientY-
+
+canvasEl.getBoundingClientRect().top}function setParticuleDirection(e){var t=anime.random
+
+(0,360)*Math.PI/180,a=anime.random(50,180),n=[-1,1][anime.random(0,1)]*a;return{x:e.x
+
++n*Math.cos(t),y:e.y+n*Math.sin(t)}}function createParticule(e,t){var a={};return 
+
+a.x=e,a.y=t,a.color=colors[anime.random(0,colors.length-1)],a.radius=anime.random
+
+(16,32),a.endPos=setParticuleDirection(a),a.draw=function(){ctx.beginPath(),ctx.arc
+
+(a.x,a.y,a.radius,0,2*Math.PI,!0),ctx.fillStyle=a.color,ctx.fill()},a}function createCircle(e,t){var a=
+
+{};return a.x=e,a.y=t,a.color="#F00",a.radius=0.1,a.alpha=0.5,a.lineWidth=6,a.draw=function()
+
+{ctx.globalAlpha=a.alpha,ctx.beginPath(),ctx.arc(a.x,a.y,a.radius,0,2*Math.PI,!
+
+0),ctx.lineWidth=a.lineWidth,ctx.strokeStyle=a.color,ctx.stroke(),ctx.globalAlpha=1},a}function 
+
+renderParticule(e){for(var t=0;t<e.animatables.length;t++){e.animatables[t].target.draw()}}
+
+function animateParticules(e,t){for(var a=createCircle(e,t),n=[],i=0;i<numberOfParticules;i++)
+
+{n.push(createParticule(e,t))}anime.timeline().add({targets:n,x:function(e){return 
+
+e.endPos.x},y:function(e){return e.endPos.y},radius:0.1,duration:anime.random
+
+(1200,1800),easing:"easeOutExpo",update:renderParticule}).add({targets:a,radius:anime.random
+
+(80,160),lineWidth:0,alpha:{value:0,easing:"linear",duration:anime.random
+
+(600,800)},duration:anime.random
+
+(1200,1800),easing:"easeOutExpo",update:renderParticule,offset:0})}function debounce(e,t){var 
+
+a;return function(){var n=this,i=arguments;clearTimeout(a),a=setTimeout(function(){e.apply
+
+(n,i)},t)}}var canvasEl=document.querySelector(".fireworks");if(canvasEl){var 
+
+ctx=canvasEl.getContext
+
+("2d"),numberOfParticules=30,pointerX=0,pointerY=0,tap="mousedown",colors=
+
+["#FF1461","#18FF92","#5A87FF","#FBF38C"],setCanvasSize=debounce(function()
+
+{canvasEl.width=2*window.innerWidth,canvasEl.height=2*window.innerHeight,canvasEl.style.wi
+
+dth=window.innerWidth+"px",canvasEl.style.height=window.innerHeight
+
++"px",canvasEl.getContext("2d").scale(2,2)},500),render=anime({duration:1/0,update:function()
+
+{ctx.clearRect(0,0,canvasEl.width,canvasEl.height)}});document.addEventListener(tap,function(e)
+
+{"sidebar"!==e.target.id&&"toggle-sidebar"!==e.target.id&&"A"!
+
+==e.target.nodeName&&"IMG"!==e.target.nodeName&&(render.play(),updateCoords
+
+(e),animateParticules(pointerX,pointerY))},!1),setCanvasSize(),window.addEventListener
+
+("resize",setCanvasSize,!1)};
+</script>
+<script type="text/javascript">
+        document.onkeydown = function () {
+            if (window.event && window.event.keyCode == 123) {
+                event.keyCode = 0;
+                event.returnValue = false;
+                return false;
+            }
+        };
+</script>
+
+
+<script>
+var OriginTitle = document.title;
+var titleTime;
+document.addEventListener('visibilitychange', function () {
+    if (document.hidden) {
+        $('[rel="icon"]').attr('href', "/funny.ico");
+        document.title = '╭(°A°`)╮ 页面崩溃啦 ~快回来看看';
+        clearTimeout(titleTime);
+    }
+    else {
+        $('[rel="icon"]').attr('href', "/favicon.ico");
+        document.title = '嗷嗷嗷，又好啦 ~ (ฅ>ω<*ฅ) ' + OriginTitle;
+        titleTime = setTimeout(function () {
+            document.title = OriginTitle;
+        }, 2000);
+    }
+});
+
+</script>
+<script>
+ 
+!function(){
+ 
+ function n(n,e,t){
+ 
+ return n.getAttribute(e)||t
+ 
+ }
+ 
+ function e(n){
+ 
+ return document.getElementsByTagName(n)
+ 
+ }
+ 
+ function t(){
+ 
+ var t=e("script"),o=t.length,i=t[o-1];
+ 
+ return{
+ 
+ l:o,z:n(i,"zIndex",-1),o:n(i,"opacity",.5),c:n(i,"color","0,0,0"),n:n(i,"count",99)
+ 
+ }
+ 
+ }
+ 
+ function o(){
+ 
+ a=m.width=window.innerWidth||document.documentElement.clientWidth||
+
+document.body.clientWidth,
+ 
+ c=m.height=window.innerHeight||document.documentElement.clientHeight||
+
+document.body.clientHeight
+ 
+ }
+ 
+ function i(){
+ 
+ r.clearRect(0,0,a,c);
+ 
+ var n,e,t,o,m,l;
+ 
+ s.forEach(function(i,x){
+ 
+ for(i.x+=i.xa,i.y+=i.ya,i.xa*=i.x>a||i.x<0?-1:1,i.ya*=i.y>c||i.y<0?-1:1,r.fillRect(i.x-.5,i.y-.5,1,1),e=x
+
++1;e<u.length;e++)n=u[e],
+ 
+ null!==n.x&&null!==n.y&&(o=i.x-n.x,m=i.y-n.y,
+ 
+ l=o*o+m*m,l<n.max&&(n===y&&l>=n.max/2&&(i.x-=.03*o,i.y-=.03*m),
+ 
+ t=(n.max-l)/n.max,r.beginPath(),r.lineWidth=t/2,r.strokeStyle="rgba("+d.c+","+(t
+
++.2)+")",r.moveTo(i.x,i.y),r.lineTo(n.x,n.y),r.stroke()))
+ 
+ }),
+
+ x(i)
+ 
+ }
+ 
+ var a,c,u,m=document.createElement("canvas"),
+ 
+ d=t(),l="c_n"+d.l,r=m.getContext("2d"),
+x=window.requestAnimationFrame||window.webkitRequestAnimationFrame||
+
+window.mozRequestAnimationFrame||window.oRequestAnimationFrame||
+
+window.msRequestAnimationFrame||
+ 
+ function(n){
+
+ window.setTimeout(n,1e3/45)
+ 
+ },
+ 
+ w=Math.random,y={x:null,y:null,max:2e4};m.id=l,m.style.cssText="position:fixed;top:0;left:0;z-
+
+index:"+d.z+";opacity:"+d.o,e("body")[0].appendChild(m),o(),window.onresize=o,
+ 
+ window.onmousemove=function(n){
+ 
+ n=n||window.event,y.x=n.clientX,y.y=n.clientY
+ 
+ },
+ 
+ window.onmouseout=function(){
+ 
+ y.x=null,y.y=null
+ 
+ };
+ 
+ for(var s=[],f=0;d.n>f;f++){
+ 
+ var h=w()*a,g=w()*c,v=2*w()-1,p=2*w()-1;s.push({x:h,y:g,xa:v,ya:p,max:6e3})
+ 
+ }
+ 
+ u=s.concat([y]),
+ 
+ setTimeout(function(){i()},100)
+ 
+ }();
+ 
+ </script>
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script src="//cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+<script>
+  var mihoConfig = {
+      root: "https://www.yfblog.cf",
+      animate: true,
+      isHome: false,
+      share: true,
+      reward: 1
+  }
+</script>
+<div class="sidebar">
+    <div id="sidebar-search" title="Search">
+        <i class="fa fa-search"></i>
+    </div>
+    <div id="sidebar-category" title="Categories">
+        <i class="fa fa-book"></i>
+    </div>
+    <div id="sidebar-tag" title="Tags">
+        <i class="fa fa-tags"></i>
+    </div>
+    <div id="sidebar-top">
+        <span class="sidebar-top-icon"><i class="fa fa-angle-up"></i></span>
+    </div>
+</div>
+<div class="sidebar-menu-box" id="sidebar-menu-box">
+    <div class="sidebar-menu-box-container">
+        <div id="sidebar-menu-box-categories">
+            
+        </div>
+        <div id="sidebar-menu-box-tags">
+            
+        </div>
+    </div>
+    <a href="javascript:;" class="sidebar-menu-box-close">&times;</a>
+</div>
+<div class="mobile-header-menu-nav" id="mobile-header-menu-nav">
+    <div class="mobile-header-menu-container">
+        <span class="title">Menus</span>
+        <ul class="mobile-header-menu-navbar">
+            
+            <li>
+                <a  href="/">
+                    <i class="fa fa-home"></i><span>Home</span>
+                </a>
+            </li>
+            
+            <li>
+                <a  href="/archives">
+                    <i class="fa fa-archive"></i><span>Archives</span>
+                </a>
+            </li>
+            
+            <li>
+                <a  href="/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/index.html">
+                    <i class="fa fa-user"></i><span>友情链接</span>
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+    <div class="mobile-header-tag-container">
+        <span class="title">Tags</span>
+        <div id="mobile-header-container-tags">
+            
+        </div>
+    </div>
+</div>
+<div class="search-wrap">
+    <span class="search-close">&times;</span>
+        <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="back">
+            <i class="icon icon-lg icon-chevron-left"></i>
+        </a>
+        <input class="search-field" placeholder="Search..." id="keywords">
+        <a id="search-submit" href="javascript:;">
+            <i class="fa fa-search"></i>
+        </a>
+    <div class="search-container" id="search-container">
+        <ul class="search-result" id="search-result">
+        </ul>
+    </div>
+</div>
+
+<div id="search-tpl">
+    <li class="search-result-item">
+        <a href="{url}" class="search-item-li">
+            <span class="search-item-li-title" title="{title}">{title}</span>
+        </a>
+    </li>
+</div>
+
+<script src="/js/search.js"></script>
+
+
+<script src="/js/main.js"></script>
+
+
+
+  <script src="//cdn.bootcss.com/particles.js/2.0.0/particles.min.js"></script>
+  <div id="particles"></div>
+  
+<script src="/js/particles.js"></script>
+
+
+
+
+
+
+
+
+  
+<link rel="stylesheet" href="//cdn.bootcss.com/animate.css/3.5.0/animate.min.css">
+
+  <script src="//cdn.bootcss.com/scrollReveal.js/3.0.5/scrollreveal.js"></script>
+  
+<script src="/js/animate.js"></script>
+
+
+
+  
+<script src="/js/pop-img.js"></script>
+
+  <script>
+     $(".article-entry p img").popImg();
+  </script>
+
+  </div>
+</body>
+</html>
