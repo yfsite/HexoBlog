@@ -17,16 +17,20 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Archives: 2020 | YF&#39;s blog</title>
+  <title>[ Windows VPS ] Windows 一键重装系统为 Linux (netboot,网络安装) | YF&#39;s blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   
     <meta name="keywords" content="YF,YF's Blog,hexo" />
   
-  <meta property="og:type" content="website">
-<meta property="og:title" content="YF&#39;s blog">
-<meta property="og:url" content="https://www.yfblog.ml/archives/2020/index.html">
+  <meta name="description" content="Tips：本文来自萌咖，原文地址https:&#x2F;&#x2F;moeclub.org&#x2F;2018&#x2F;10&#x2F;31&#x2F;670&#x2F;?spm&#x3D;41.5 无任何删改！  有些厂商的机器因策略问题,不支持Windows重装为Linux.   例如: 腾讯云非大陆区域. 有些厂商Windows系统盘会比Linux系统盘大,想要大一点系统盘. 例如: AZURE, AWS等. 有些厂商不支持VNC,这对于转换系统实在不方便.这篇文章">
+<meta property="og:type" content="article">
+<meta property="og:title" content="[ Windows VPS ] Windows 一键重装系统为 Linux (netboot,网络安装)">
+<meta property="og:url" content="https://www.yfblog.ml/2020/04/14/Windows-VPS-Windows-%E4%B8%80%E9%94%AE%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E4%B8%BA-Linux-netboot-%E7%BD%91%E7%BB%9C%E5%AE%89%E8%A3%85/index.html">
 <meta property="og:site_name" content="YF&#39;s blog">
+<meta property="og:description" content="Tips：本文来自萌咖，原文地址https:&#x2F;&#x2F;moeclub.org&#x2F;2018&#x2F;10&#x2F;31&#x2F;670&#x2F;?spm&#x3D;41.5 无任何删改！  有些厂商的机器因策略问题,不支持Windows重装为Linux.   例如: 腾讯云非大陆区域. 有些厂商Windows系统盘会比Linux系统盘大,想要大一点系统盘. 例如: AZURE, AWS等. 有些厂商不支持VNC,这对于转换系统实在不方便.这篇文章">
 <meta property="og:locale" content="zh">
+<meta property="article:published_time" content="2020-04-14T12:54:49.000Z">
+<meta property="article:modified_time" content="2020-04-14T13:02:01.449Z">
 <meta property="article:author" content="YF">
 <meta name="twitter:card" content="summary">
   
@@ -279,210 +283,148 @@ top.location.href =window.location.href; // 如果不是，将top对象的网址
     </div>
 </header>
       <div class="outer">
-        <section id="main" class="body-wrap">
-  
-  
+        <section id="main" class="body-wrap"><article id="post-Windows-VPS-Windows-一键重装系统为-Linux-netboot-网络安装" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-inner">
     
-    
-      
-      
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2020" class="archive-year">2020</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2020/04/14/Windows-VPS-Windows-%E4%B8%80%E9%94%AE%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E4%B8%BA-Linux-netboot-%E7%BD%91%E7%BB%9C%E5%AE%89%E8%A3%85/" class="archive-article-date">
-  <time datetime="2020-04-14T12:54:49.000Z" itemprop="datePublished">04-14</time>
-</a>
-      
+      <header class="article-header">
+        
   
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2020/04/14/Windows-VPS-Windows-%E4%B8%80%E9%94%AE%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E4%B8%BA-Linux-netboot-%E7%BD%91%E7%BB%9C%E5%AE%89%E8%A3%85/"  >[ Windows VPS ] Windows 一键重装系统为 Linux (netboot,网络安装)</a>
+    <h1 class="post-title" itemprop="name">
+      [ Windows VPS ] Windows 一键重装系统为 Linux (netboot,网络安装)
     </h1>
+    <div class="post-title-bar">
+      <ul>
+          
+        <li>
+          <i class="fa fa-calendar"></i>  2020-04-14
+        </li>
+        <li>
+          <i class="fa fa-eye"></i>
+          <span id="busuanzi_value_page_pv"></span>
+        </li>
+      </ul>
+    </div>
   
 
-    </header>
+          
+      </header>
+    
+    <div class="article-entry post-content" itemprop="articleBody">
       
+            
+            <p> <code>Tips：本文来自萌咖，原文地址<a href="https://moeclub.org/2018/10/31/670/?spm=41.5" target="_blank" rel="noopener">https://moeclub.org/2018/10/31/670/?spm=41.5</a> 无任何删改！</code></p>
+<p> 有些厂商的机器因策略问题,不支持Windows重装为Linux. </p>
+<p> 例如: 腾讯云非大陆区域.</p>
+<p>有些厂商Windows系统盘会比Linux系统盘大,想要大一点系统盘. 例如: AZURE, AWS等.</p>
+<p>有些厂商不支持VNC,这对于转换系统实在不方便.<br>这篇文章可以解决以上问题.</p>
+<p>Windows to Linux!</p>
+<p>使用前,请耐心看完文章.<br>如果造成损失,<a href=https://moeclub.org>萌咖不负任何责任.</a></p>
+<p>更新日志</p>
+<p>2018.11.12</p>
+<p>1.内置了我博客中提供的两个Windows镜像的选项,仅DHCP可用(谷歌网盘,境外机器使用). 2.修复了SHA1 校验失败的问题. 3.兼容了较低版本 PowerShell.</p>
+<p>2018.11.02</p>
+<p>增加 SHA1 文件校验, 避免下载中意外出错.</p>
+<p>使用方法:</p>
+<p>下载 <a href=https://moeclub.org/attachment/WindowsSoftware/win32loader.bat>win32loader.bat</a> .</p>
+<p>双击打开此文件.</p>
+<p>自行选择选项.</p>
+<p>按回车重启,并等待安装完成.</p>
+<img src=https://moeclub.org/attachment/Client/Windows/win32loder.png>
+
+<p>注意事项:</p>
+<p>如果对提供安装的发行版不满意,请参考此文章.</p>
+<p>[ Linux VPS ]<br>Debian/Ubuntu/CentOS 网络安装/重装系统/纯净安装 一键脚本</p>
+<p>默认提供的是Debian8(Jessie),添加了firmware包,提供了更多的驱动支持,DHCP模式一键.</p>
+<p>非DHCP模式,如果要一键,则需要自己定制镜像.</p>
+<p>定制Debian系镜像应该没问题,其他未作测试.</p>
+<p>默认root账户密码 MoeClub.org .</p>
+<p>如需要Linux一键重装为Windows,请参考此文章.</p>
+<p>[ Linux VPS ] Debian/Ubuntu/CentOS 网络安装/重装系统/纯净安装 一键脚本</p>
+<p>如果厂商不支持VNC,则需要自己定制镜像.</p>
+<p>定制方法参考上面提到的文章</p>
+<p>[ Linux VPS ] Debian/Ubuntu/CentOS 网络安装/重装系统/纯净安装 一键脚本</p>
+<p>主要在镜像中添加机器的网络参数,以便支持一键安装.<br>命令示例:</p>
+<code>
+# 定制带网络参数的initrd.img
+
+<p>bash InstallNET.sh -d 8 -v 64 -a –ip-addr–ip-mask  –ip-gate  –loader</p>
+<h1 id="需要dd安装其他系统-例如-Windows-to-Windows-定制命令-网络参数有DHCP的-无需添加"><a href="#需要dd安装其他系统-例如-Windows-to-Windows-定制命令-网络参数有DHCP的-无需添加" class="headerlink" title="需要dd安装其他系统(例如 Windows to Windows),定制命令.(网络参数有DHCP的,无需添加.)"></a>需要dd安装其他系统(例如 Windows to Windows),定制命令.(网络参数有DHCP的,无需添加.)</h1><p>bash InstallNET.sh -dd  –ip-addr  –ip-mask  –ip-gate  –loader<br></code></p>
+<p>完成后将 initrd.img 和 vmlinuz 存放到能直链下载的位置.</p>
+<p>如果厂商支持VNC,则可以直选全部选 1 .</p>
+<p>安装的时候,自己填 IP地址，子网掩码, 网关, DNS服务器. DNS服务器推荐填: 8.8.8.8</p>
+<p>区分是否为DHCP模式</p>
+<img src=https://moeclub.org/attachment/Client/Windows/DHCP.png>
+
+<li>非DHCP模式: 如上图,显示了详细的IP地址.(选中:使用下面的IP地址)</li>
+<li>DHCP模式: 参考上图.(选中:自动获得IP地址)</li>
+            <div class="post-copyright">
+    <div class="content">
+        <p>最后更新： 2020年04月14日 21:02</p>
+        <p>原始链接： <a class="post-url" href="/2020/04/14/Windows-VPS-Windows-%E4%B8%80%E9%94%AE%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E4%B8%BA-Linux-netboot-%E7%BD%91%E7%BB%9C%E5%AE%89%E8%A3%85/" title="[ Windows VPS ] Windows 一键重装系统为 Linux (netboot,网络安装)">https://www.yfblog.ml/2020/04/14/Windows-VPS-Windows-%E4%B8%80%E9%94%AE%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E4%B8%BA-Linux-netboot-%E7%BD%91%E7%BB%9C%E5%AE%89%E8%A3%85/</a></p>
+        <footer>
+            <a href="https://www.yfblog.ml">
+                <img src="https://s1.ax1x.com/2020/04/12/GLutJ0.png" alt="YF">
+                YF
+            </a>
+        </footer>
+    </div>
+</div>
+
+      
+        
+            
+
+        
+    </div>
+    <footer class="article-footer">
+        
+        <ul class="article-footer-menu">
+            
+            
+        </ul>
+        
+    </footer>
   </div>
 </article>
 
-  
+
+    <aside class="post-toc-pos post-toc-top" id="post-toc">
+        <nav class="post-toc-wrap">
+            <ol class="post-toc"><li class="post-toc-item post-toc-level-1"><a class="post-toc-link" href="#需要dd安装其他系统-例如-Windows-to-Windows-定制命令-网络参数有DHCP的-无需添加"><span class="post-toc-text">需要dd安装其他系统(例如 Windows to Windows),定制命令.(网络参数有DHCP的,无需添加.)</span></a></li></ol>
+        </nav>
+    </aside>
     
+
+<nav id="article-nav">
+  
+  
+    <a href="/2020/04/14/%E5%8D%9A%E5%AE%A2%E5%9F%9F%E5%90%8D%E6%9B%B4%E6%8D%A2%E9%80%9A%E7%9F%A5/" id="article-nav-older" class="article-nav-link-wrap">
+      <span class="article-nav-title">博客域名更换通知</span>
+      <i class="fa fa-hand-o-right" aria-hidden="true"></i>
+    </a>
+  
+</nav>
+
+
+
     
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2020/04/14/%E5%8D%9A%E5%AE%A2%E5%9F%9F%E5%90%8D%E6%9B%B4%E6%8D%A2%E9%80%9A%E7%9F%A5/" class="archive-article-date">
-  <time datetime="2020-04-14T09:07:54.262Z" itemprop="datePublished">04-14</time>
-</a>
-      
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2020/04/14/%E5%8D%9A%E5%AE%A2%E5%9F%9F%E5%90%8D%E6%9B%B4%E6%8D%A2%E9%80%9A%E7%9F%A5/"  >博客域名更换通知</a>
-    </h1>
-  
+        <div id="lv-container" data-id="city" data-uid="MTAyMC80OTYyMS8yNjExMg==">
+	<script type="text/javascript">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
 
-    </header>
-      
-  </div>
-</article>
+       if (typeof LivereTower === 'function') { return; }
 
-  
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
+
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+	</script>
+<noscript> 为正常使用评论功能请激活JavaScript</noscript>
+</div>
     
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2020/04/14/%E5%85%B3%E4%BA%8E%E4%B8%BA%E5%95%A5%E5%8D%9A%E5%AE%A2%E5%9F%9F%E5%90%8D%E7%BA%A2%E7%9A%84%EF%BC%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B6%89H%E4%BA%86%EF%BC%9F/" class="archive-article-date">
-  <time datetime="2020-04-14T04:25:24.410Z" itemprop="datePublished">04-14</time>
-</a>
-      
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2020/04/14/%E5%85%B3%E4%BA%8E%E4%B8%BA%E5%95%A5%E5%8D%9A%E5%AE%A2%E5%9F%9F%E5%90%8D%E7%BA%A2%E7%9A%84%EF%BC%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B6%89H%E4%BA%86%EF%BC%9F/"  >关于为啥博客域名红的，是不是涉H了？</a>
-    </h1>
-  
-
-    </header>
-      
-  </div>
-</article>
-
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2020/04/14/%E6%90%AD%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F%E7%AB%99/" class="archive-article-date">
-  <time datetime="2020-04-14T04:23:42.694Z" itemprop="datePublished">04-14</time>
-</a>
-      
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2020/04/14/%E6%90%AD%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F%E7%AB%99/"  >搭建了一个谷歌镜像站</a>
-    </h1>
-  
-
-    </header>
-      
-  </div>
-</article>
-
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2020/04/13/%E5%9B%9E%E9%A1%BEWannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E4%B8%80%E7%94%9F%EF%BC%9A%E4%BB%8E%E4%BC%A0%E6%92%AD%E5%88%B0%E8%A7%A3%E5%AF%86%E4%BA%AB%E5%B9%B46%E5%A4%A9/" class="archive-article-date">
-  <time datetime="2020-04-13T05:23:23.537Z" itemprop="datePublished">04-13</time>
-</a>
-      
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2020/04/13/%E5%9B%9E%E9%A1%BEWannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E4%B8%80%E7%94%9F%EF%BC%9A%E4%BB%8E%E4%BC%A0%E6%92%AD%E5%88%B0%E8%A7%A3%E5%AF%86%E4%BA%AB%E5%B9%B46%E5%A4%A9/"  >回顾WannaRen勒索病毒一生：从传播到解密享年6天</a>
-    </h1>
-  
-
-    </header>
-      
-  </div>
-</article>
-
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2020/04/13/%E4%B8%80%E9%94%AE%E8%A7%A3%E5%AF%86-%E7%81%AB%E7%BB%92%E6%8E%A8%E5%87%BAWannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E8%A7%A3%E5%AF%86%E5%B7%A5%E5%85%B7/" class="archive-article-date">
-  <time datetime="2020-04-13T05:06:53.228Z" itemprop="datePublished">04-13</time>
-</a>
-      
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2020/04/13/%E4%B8%80%E9%94%AE%E8%A7%A3%E5%AF%86-%E7%81%AB%E7%BB%92%E6%8E%A8%E5%87%BAWannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E8%A7%A3%E5%AF%86%E5%B7%A5%E5%85%B7/"  >一键解密-火绒推出WannaRen勒索病毒解密工具</a>
-    </h1>
-  
-
-    </header>
-      
-  </div>
-</article>
-
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2020/04/12/%E4%BB%96%E6%9D%A5%E4%BA%86%EF%BC%81WannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E4%BD%9C%E8%80%85%E4%B8%BB%E5%8A%A8%E6%8F%90%E4%BE%9B%E8%A7%A3%E5%AF%86%E5%AF%86%E9%92%A5/" class="archive-article-date">
-  <time datetime="2020-04-12T10:37:16.742Z" itemprop="datePublished">04-12</time>
-</a>
-      
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2020/04/12/%E4%BB%96%E6%9D%A5%E4%BA%86%EF%BC%81WannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E4%BD%9C%E8%80%85%E4%B8%BB%E5%8A%A8%E6%8F%90%E4%BE%9B%E8%A7%A3%E5%AF%86%E5%AF%86%E9%92%A5/"  >他来了！WannaRen勒索病毒作者主动提供解密密钥</a>
-    </h1>
-  
-
-    </header>
-      
-  </div>
-</article>
-
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/" class="archive-article-date">
-  <time datetime="2020-04-12T06:14:37.000Z" itemprop="datePublished">04-12</time>
-</a>
-      
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"  >欢迎来到我的博客</a>
-    </h1>
-  
-
-    </header>
-      
-  </div>
-</article>
-
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2020/04/12/hello-world/" class="archive-article-date">
-  <time datetime="2020-04-12T05:09:17.957Z" itemprop="datePublished">04-12</time>
-</a>
-      
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2020/04/12/hello-world/"  >Hello World</a>
-    </h1>
-  
-
-    </header>
-      
-  </div>
-</article>
-
-  
-  
-    </div></section>
-  
-
 </section>
         
       </div>

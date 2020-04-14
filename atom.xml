@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yfblog.ml/"/>
-  <updated>2020-04-14T09:07:54.262Z</updated>
+  <updated>2020-04-14T13:02:01.449Z</updated>
   <id>https://www.yfblog.ml/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[ Windows VPS ] Windows 一键重装系统为 Linux (netboot,网络安装)</title>
+    <link href="https://www.yfblog.ml/2020/04/14/Windows-VPS-Windows-%E4%B8%80%E9%94%AE%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E4%B8%BA-Linux-netboot-%E7%BD%91%E7%BB%9C%E5%AE%89%E8%A3%85/"/>
+    <id>https://www.yfblog.ml/2020/04/14/Windows-VPS-Windows-%E4%B8%80%E9%94%AE%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E4%B8%BA-Linux-netboot-%E7%BD%91%E7%BB%9C%E5%AE%89%E8%A3%85/</id>
+    <published>2020-04-14T12:54:49.000Z</published>
+    <updated>2020-04-14T13:02:01.449Z</updated>
+    
+    <content type="html"><![CDATA[<p> <code>Tips：本文来自萌咖，原文地址<a href="https://moeclub.org/2018/10/31/670/?spm=41.5" target="_blank" rel="noopener">https://moeclub.org/2018/10/31/670/?spm=41.5</a> 无任何删改！</code></p><p> 有些厂商的机器因策略问题,不支持Windows重装为Linux. </p><p> 例如: 腾讯云非大陆区域.</p><p>有些厂商Windows系统盘会比Linux系统盘大,想要大一点系统盘. 例如: AZURE, AWS等.</p><p>有些厂商不支持VNC,这对于转换系统实在不方便.<br>这篇文章可以解决以上问题.</p><p>Windows to Linux!</p><p>使用前,请耐心看完文章.<br>如果造成损失,<a href=https://moeclub.org>萌咖不负任何责任.</a></p><p>更新日志</p><p>2018.11.12</p><p>1.内置了我博客中提供的两个Windows镜像的选项,仅DHCP可用(谷歌网盘,境外机器使用). 2.修复了SHA1 校验失败的问题. 3.兼容了较低版本 PowerShell.</p><p>2018.11.02</p><p>增加 SHA1 文件校验, 避免下载中意外出错.</p><p>使用方法:</p><p>下载 <a href=https://moeclub.org/attachment/WindowsSoftware/win32loader.bat>win32loader.bat</a> .</p><p>双击打开此文件.</p><p>自行选择选项.</p><p>按回车重启,并等待安装完成.</p><img src=https://moeclub.org/attachment/Client/Windows/win32loder.png><p>注意事项:</p><p>如果对提供安装的发行版不满意,请参考此文章.</p><p>[ Linux VPS ]<br>Debian/Ubuntu/CentOS 网络安装/重装系统/纯净安装 一键脚本</p><p>默认提供的是Debian8(Jessie),添加了firmware包,提供了更多的驱动支持,DHCP模式一键.</p><p>非DHCP模式,如果要一键,则需要自己定制镜像.</p><p>定制Debian系镜像应该没问题,其他未作测试.</p><p>默认root账户密码 MoeClub.org .</p><p>如需要Linux一键重装为Windows,请参考此文章.</p><p>[ Linux VPS ] Debian/Ubuntu/CentOS 网络安装/重装系统/纯净安装 一键脚本</p><p>如果厂商不支持VNC,则需要自己定制镜像.</p><p>定制方法参考上面提到的文章</p><p>[ Linux VPS ] Debian/Ubuntu/CentOS 网络安装/重装系统/纯净安装 一键脚本</p><p>主要在镜像中添加机器的网络参数,以便支持一键安装.<br>命令示例:</p><code># 定制带网络参数的initrd.img<p>bash InstallNET.sh -d 8 -v 64 -a –ip-addr–ip-mask  –ip-gate  –loader</p><h1 id="需要dd安装其他系统-例如-Windows-to-Windows-定制命令-网络参数有DHCP的-无需添加"><a href="#需要dd安装其他系统-例如-Windows-to-Windows-定制命令-网络参数有DHCP的-无需添加" class="headerlink" title="需要dd安装其他系统(例如 Windows to Windows),定制命令.(网络参数有DHCP的,无需添加.)"></a>需要dd安装其他系统(例如 Windows to Windows),定制命令.(网络参数有DHCP的,无需添加.)</h1><p>bash InstallNET.sh -dd  –ip-addr  –ip-mask  –ip-gate  –loader<br></code></p><p>完成后将 initrd.img 和 vmlinuz 存放到能直链下载的位置.</p><p>如果厂商支持VNC,则可以直选全部选 1 .</p><p>安装的时候,自己填 IP地址，子网掩码, 网关, DNS服务器. DNS服务器推荐填: 8.8.8.8</p><p>区分是否为DHCP模式</p><img src=https://moeclub.org/attachment/Client/Windows/DHCP.png><li>非DHCP模式: 如上图,显示了详细的IP地址.(选中:使用下面的IP地址)</li><li>DHCP模式: 参考上图.(选中:自动获得IP地址)</li>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt; &lt;code&gt;Tips：本文来自萌咖，原文地址&lt;a href=&quot;https://moeclub.org/2018/10/31/670/?spm=41.5&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://moeclub.org/2018/10/
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>博客域名更换通知</title>
