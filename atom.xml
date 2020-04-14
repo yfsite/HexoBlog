@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://www.yfblog.cf/"/>
-  <updated>2020-04-14T04:25:24.410Z</updated>
-  <id>https://www.yfblog.cf/</id>
+  <link href="https://www.yfblog.ml/"/>
+  <updated>2020-04-14T09:07:54.262Z</updated>
+  <id>https://www.yfblog.ml/</id>
   
   <author>
     <name>YF</name>
@@ -17,9 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>博客域名更换通知</title>
+    <link href="https://www.yfblog.ml/2020/04/14/%E5%8D%9A%E5%AE%A2%E5%9F%9F%E5%90%8D%E6%9B%B4%E6%8D%A2%E9%80%9A%E7%9F%A5/"/>
+    <id>https://www.yfblog.ml/2020/04/14/%E5%8D%9A%E5%AE%A2%E5%9F%9F%E5%90%8D%E6%9B%B4%E6%8D%A2%E9%80%9A%E7%9F%A5/</id>
+    <published>2020-04-14T09:07:54.262Z</published>
+    <updated>2020-04-14T09:07:54.262Z</updated>
+    
+    <content type="html"><![CDATA[<p>博客域名更换了，因为以前的域名被举报涉H</p><p>新域名：<a href="https://www.yfblog.ml">https://www.yfblog.ml</a></p><p>原域名过会时间启动跳转.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;博客域名更换了，因为以前的域名被举报涉H&lt;/p&gt;
+&lt;p&gt;新域名：&lt;a href=&quot;https://www.yfblog.ml&quot;&gt;https://www.yfblog.ml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;原域名过会时间启动跳转.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>关于为啥博客域名红的，是不是涉H了？</title>
-    <link href="https://www.yfblog.cf/2020/04/14/%E5%85%B3%E4%BA%8E%E4%B8%BA%E5%95%A5%E5%8D%9A%E5%AE%A2%E5%9F%9F%E5%90%8D%E7%BA%A2%E7%9A%84%EF%BC%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B6%89H%E4%BA%86%EF%BC%9F/"/>
-    <id>https://www.yfblog.cf/2020/04/14/%E5%85%B3%E4%BA%8E%E4%B8%BA%E5%95%A5%E5%8D%9A%E5%AE%A2%E5%9F%9F%E5%90%8D%E7%BA%A2%E7%9A%84%EF%BC%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B6%89H%E4%BA%86%EF%BC%9F/</id>
+    <link href="https://www.yfblog.ml/2020/04/14/%E5%85%B3%E4%BA%8E%E4%B8%BA%E5%95%A5%E5%8D%9A%E5%AE%A2%E5%9F%9F%E5%90%8D%E7%BA%A2%E7%9A%84%EF%BC%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B6%89H%E4%BA%86%EF%BC%9F/"/>
+    <id>https://www.yfblog.ml/2020/04/14/%E5%85%B3%E4%BA%8E%E4%B8%BA%E5%95%A5%E5%8D%9A%E5%AE%A2%E5%9F%9F%E5%90%8D%E7%BA%A2%E7%9A%84%EF%BC%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B6%89H%E4%BA%86%EF%BC%9F/</id>
     <published>2020-04-14T04:25:24.410Z</published>
     <updated>2020-04-14T04:25:24.410Z</updated>
     
@@ -44,8 +69,8 @@
   
   <entry>
     <title>搭建了一个谷歌镜像站</title>
-    <link href="https://www.yfblog.cf/2020/04/14/%E6%90%AD%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F%E7%AB%99/"/>
-    <id>https://www.yfblog.cf/2020/04/14/%E6%90%AD%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F%E7%AB%99/</id>
+    <link href="https://www.yfblog.ml/2020/04/14/%E6%90%AD%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F%E7%AB%99/"/>
+    <id>https://www.yfblog.ml/2020/04/14/%E6%90%AD%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F%E7%AB%99/</id>
     <published>2020-04-14T04:23:42.694Z</published>
     <updated>2020-04-14T04:23:42.694Z</updated>
     
@@ -68,8 +93,8 @@
   
   <entry>
     <title>回顾WannaRen勒索病毒一生：从传播到解密享年6天</title>
-    <link href="https://www.yfblog.cf/2020/04/13/%E5%9B%9E%E9%A1%BEWannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E4%B8%80%E7%94%9F%EF%BC%9A%E4%BB%8E%E4%BC%A0%E6%92%AD%E5%88%B0%E8%A7%A3%E5%AF%86%E4%BA%AB%E5%B9%B46%E5%A4%A9/"/>
-    <id>https://www.yfblog.cf/2020/04/13/%E5%9B%9E%E9%A1%BEWannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E4%B8%80%E7%94%9F%EF%BC%9A%E4%BB%8E%E4%BC%A0%E6%92%AD%E5%88%B0%E8%A7%A3%E5%AF%86%E4%BA%AB%E5%B9%B46%E5%A4%A9/</id>
+    <link href="https://www.yfblog.ml/2020/04/13/%E5%9B%9E%E9%A1%BEWannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E4%B8%80%E7%94%9F%EF%BC%9A%E4%BB%8E%E4%BC%A0%E6%92%AD%E5%88%B0%E8%A7%A3%E5%AF%86%E4%BA%AB%E5%B9%B46%E5%A4%A9/"/>
+    <id>https://www.yfblog.ml/2020/04/13/%E5%9B%9E%E9%A1%BEWannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E4%B8%80%E7%94%9F%EF%BC%9A%E4%BB%8E%E4%BC%A0%E6%92%AD%E5%88%B0%E8%A7%A3%E5%AF%86%E4%BA%AB%E5%B9%B46%E5%A4%A9/</id>
     <published>2020-04-13T05:23:23.537Z</published>
     <updated>2020-04-13T05:23:23.537Z</updated>
     
@@ -90,8 +115,8 @@
   
   <entry>
     <title>一键解密-火绒推出WannaRen勒索病毒解密工具</title>
-    <link href="https://www.yfblog.cf/2020/04/13/%E4%B8%80%E9%94%AE%E8%A7%A3%E5%AF%86-%E7%81%AB%E7%BB%92%E6%8E%A8%E5%87%BAWannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E8%A7%A3%E5%AF%86%E5%B7%A5%E5%85%B7/"/>
-    <id>https://www.yfblog.cf/2020/04/13/%E4%B8%80%E9%94%AE%E8%A7%A3%E5%AF%86-%E7%81%AB%E7%BB%92%E6%8E%A8%E5%87%BAWannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E8%A7%A3%E5%AF%86%E5%B7%A5%E5%85%B7/</id>
+    <link href="https://www.yfblog.ml/2020/04/13/%E4%B8%80%E9%94%AE%E8%A7%A3%E5%AF%86-%E7%81%AB%E7%BB%92%E6%8E%A8%E5%87%BAWannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E8%A7%A3%E5%AF%86%E5%B7%A5%E5%85%B7/"/>
+    <id>https://www.yfblog.ml/2020/04/13/%E4%B8%80%E9%94%AE%E8%A7%A3%E5%AF%86-%E7%81%AB%E7%BB%92%E6%8E%A8%E5%87%BAWannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E8%A7%A3%E5%AF%86%E5%B7%A5%E5%85%B7/</id>
     <published>2020-04-13T05:06:53.228Z</published>
     <updated>2020-04-13T05:06:53.228Z</updated>
     
@@ -112,8 +137,8 @@
   
   <entry>
     <title>他来了！WannaRen勒索病毒作者主动提供解密密钥</title>
-    <link href="https://www.yfblog.cf/2020/04/12/%E4%BB%96%E6%9D%A5%E4%BA%86%EF%BC%81WannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E4%BD%9C%E8%80%85%E4%B8%BB%E5%8A%A8%E6%8F%90%E4%BE%9B%E8%A7%A3%E5%AF%86%E5%AF%86%E9%92%A5/"/>
-    <id>https://www.yfblog.cf/2020/04/12/%E4%BB%96%E6%9D%A5%E4%BA%86%EF%BC%81WannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E4%BD%9C%E8%80%85%E4%B8%BB%E5%8A%A8%E6%8F%90%E4%BE%9B%E8%A7%A3%E5%AF%86%E5%AF%86%E9%92%A5/</id>
+    <link href="https://www.yfblog.ml/2020/04/12/%E4%BB%96%E6%9D%A5%E4%BA%86%EF%BC%81WannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E4%BD%9C%E8%80%85%E4%B8%BB%E5%8A%A8%E6%8F%90%E4%BE%9B%E8%A7%A3%E5%AF%86%E5%AF%86%E9%92%A5/"/>
+    <id>https://www.yfblog.ml/2020/04/12/%E4%BB%96%E6%9D%A5%E4%BA%86%EF%BC%81WannaRen%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E4%BD%9C%E8%80%85%E4%B8%BB%E5%8A%A8%E6%8F%90%E4%BE%9B%E8%A7%A3%E5%AF%86%E5%AF%86%E9%92%A5/</id>
     <published>2020-04-12T10:37:16.742Z</published>
     <updated>2020-04-12T10:37:16.742Z</updated>
     
@@ -134,8 +159,8 @@
   
   <entry>
     <title>欢迎来到我的博客</title>
-    <link href="https://www.yfblog.cf/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://www.yfblog.cf/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://www.yfblog.ml/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://www.yfblog.ml/2020/04/12/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
     <published>2020-04-12T06:14:37.000Z</published>
     <updated>2020-04-12T06:16:20.800Z</updated>
     
@@ -157,8 +182,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.yfblog.cf/2020/04/12/hello-world/"/>
-    <id>https://www.yfblog.cf/2020/04/12/hello-world/</id>
+    <link href="https://www.yfblog.ml/2020/04/12/hello-world/"/>
+    <id>https://www.yfblog.ml/2020/04/12/hello-world/</id>
     <published>2020-04-12T05:09:17.957Z</published>
     <updated>2020-04-12T05:09:17.957Z</updated>
     
