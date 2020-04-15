@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yfblog.ml/"/>
-  <updated>2020-04-15T04:51:09.266Z</updated>
+  <updated>2020-04-15T07:12:28.242Z</updated>
   <id>https://www.yfblog.ml/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux安装Windows</title>
+    <link href="https://www.yfblog.ml/2020/04/15/Linux%E5%AE%89%E8%A3%85Windows/"/>
+    <id>https://www.yfblog.ml/2020/04/15/Linux%E5%AE%89%E8%A3%85Windows/</id>
+    <published>2020-04-15T07:12:28.242Z</published>
+    <updated>2020-04-15T07:12:28.242Z</updated>
+    
+    <content type="html"><![CDATA[<p><code>Tips:原文地址<a href="https://moeclub.org/2017/11/19/483/，本文仅提取了文章中安装指令（DHCP）,若需要全文请点击链接查看！" target="_blank" rel="noopener">https://moeclub.org/2017/11/19/483/，本文仅提取了文章中安装指令（DHCP）,若需要全文请点击链接查看！</a></code></p><p>Tips:系统安装CentOS7.6</p><p>脚本如下:</p><p>win7版:</p><p>wget –no-check-certificate -qO InstallNET.sh ‘<a href="https://moeclub.org/attachment/LinuxShell/InstallNET.sh’" target="_blank" rel="noopener">https://moeclub.org/attachment/LinuxShell/InstallNET.sh’</a> &amp;&amp; bash InstallNET.sh -dd ‘<a href="https://moeclub.org/onedrive/IMAGE/Windows/win7emb_x86.tar.gz’" target="_blank" rel="noopener">https://moeclub.org/onedrive/IMAGE/Windows/win7emb_x86.tar.gz’</a><br>远程登陆账号为: Administrator</p><p>远程登陆密码为: Vicer</p><p>Windows2012R2版：</p><p>wget –no-check-certificate -qO- ‘<a href="https://moeclub.org/attachment/LinuxShell/InstallNET.sh’" target="_blank" rel="noopener">https://moeclub.org/attachment/LinuxShell/InstallNET.sh’</a>) -dd “<a href="https://fr1.teddyvps.com/iso/cn_windows2012r2.gz”" target="_blank" rel="noopener">https://fr1.teddyvps.com/iso/cn_windows2012r2.gz”</a></p><p>账号administrator</p><p>密码Password147</p><p>win2008版:<br>wget –no-check-certificate -qO InstallNET.sh ‘<a href="https://moeclub.org/attachment/LinuxShell/InstallNET.sh’" target="_blank" rel="noopener">https://moeclub.org/attachment/LinuxShell/InstallNET.sh’</a> &amp;&amp; bash InstallNET.sh -dd ‘<a href="http://down.80host.com/iso/dd/WinSrv2008x64-Chinese_datacenter_sp1_vl_kvm_xen.vhd.gz’" target="_blank" rel="noopener">http://down.80host.com/iso/dd/WinSrv2008x64-Chinese_datacenter_sp1_vl_kvm_xen.vhd.gz’</a></p><p>账户：Administrator</p><p>密码：WinSrv2008x64-Chinese<br>上面的脚本必须一个标点符号都不能少</p><p>执行成功会自己断开连接，然后等20-60分钟就可以了</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;code&gt;Tips:原文地址&lt;a href=&quot;https://moeclub.org/2017/11/19/483/，本文仅提取了文章中安装指令（DHCP）,若需要全文请点击链接查看！&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://moe
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>通知-博客境内访问IP更换为1-0-0-1</title>
