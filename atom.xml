@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yfblog.ml/"/>
-  <updated>2020-04-15T01:53:00.338Z</updated>
+  <updated>2020-04-15T04:51:09.266Z</updated>
   <id>https://www.yfblog.ml/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>通知-博客境内访问IP更换为1-0-0-1</title>
+    <link href="https://www.yfblog.ml/2020/04/15/%E9%80%9A%E7%9F%A5-%E5%8D%9A%E5%AE%A2%E5%A2%83%E5%86%85%E8%AE%BF%E9%97%AEIP%E6%9B%B4%E6%8D%A2%E4%B8%BA1-0-0-1/"/>
+    <id>https://www.yfblog.ml/2020/04/15/%E9%80%9A%E7%9F%A5-%E5%8D%9A%E5%AE%A2%E5%A2%83%E5%86%85%E8%AE%BF%E9%97%AEIP%E6%9B%B4%E6%8D%A2%E4%B8%BA1-0-0-1/</id>
+    <published>2020-04-15T04:51:09.266Z</published>
+    <updated>2020-04-15T04:51:09.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天看了一些自选Cloudflare节点的文章</p><p>于是我自己也想自选节点 就想到了1.0.0.1</p><p>我首先想到改DNS解析1.0.0.1，用CNAME，但是SL说了会被CF封。。于是…这段时间网站就有各种问题出现</p><p>先删掉DNS，改CNAME接入（我用笨牛网），DNS换Dnspod，境外解析CF给的CNAME地址，默认和境内解析1.0.0.1就是了，反正我是这样滴～</p><p>这篇文章就随便说一下啦··</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天看了一些自选Cloudflare节点的文章&lt;/p&gt;
+&lt;p&gt;于是我自己也想自选节点 就想到了1.0.0.1&lt;/p&gt;
+&lt;p&gt;我首先想到改DNS解析1.0.0.1，用CNAME，但是SL说了会被CF封。。于是…这段时间网站就有各种问题出现&lt;/p&gt;
+&lt;p&gt;先删掉DNS，改CNA
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>求助-手机里的奇怪短信</title>
