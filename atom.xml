@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yfblog.ml/"/>
-  <updated>2020-04-19T02:35:53.209Z</updated>
+  <updated>2020-04-19T09:04:46.358Z</updated>
   <id>https://www.yfblog.ml/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>分享一个免费云存储（外链）</title>
+    <link href="https://www.yfblog.ml/2020/04/19/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E4%BA%91%E5%AD%98%E5%82%A8%EF%BC%88%E5%A4%96%E9%93%BE%EF%BC%89/"/>
+    <id>https://www.yfblog.ml/2020/04/19/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E4%BA%91%E5%AD%98%E5%82%A8%EF%BC%88%E5%A4%96%E9%93%BE%EF%BC%89/</id>
+    <published>2020-04-19T09:04:46.358Z</published>
+    <updated>2020-04-19T09:04:46.358Z</updated>
+    
+    <content type="html"><![CDATA[<p>目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！</p><p>目前看最大上传大小好像是1025M，原文Maximum upload size per file is 1025MB</p><p>下面是我的测试：</p><p>地址：&lt;a href=/go/id=<a href="https://dmca.gripe/&gt;https://dmca.gripe" target="_blank" rel="noopener">https://dmca.gripe/&gt;https://dmca.gripe</a></a></p><p>图片测试：</p><img src=https://share.dmca.gripe/mPKM5YMBOQvHWNZI.jpg width=320 height=133><p>音频测试：</p><audio src="https://share.dmca.gripe/N7aBQh8CGcuZQYax.mp3" controls="controls">出现这句话说明你浏览器不支持，并不是挂了.</audio><p>视频测试：</p><p>部分原因，取消本测试</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！&lt;/p&gt;
+&lt;p&gt;目前看最大上传大小好像是1025M，原文Maximum upload size per file is 1025MB&lt;/p&gt;
+&lt;p&gt;下面是我的测试：&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>通知-博客境内访问IP更换为1-0-0-1</title>
+    <link href="https://www.yfblog.ml/2020/04/19/%E9%80%9A%E7%9F%A5-%E5%8D%9A%E5%AE%A2%E5%A2%83%E5%86%85%E8%AE%BF%E9%97%AEIP%E6%9B%B4%E6%8D%A2%E4%B8%BA1-0-0-1/"/>
+    <id>https://www.yfblog.ml/2020/04/19/%E9%80%9A%E7%9F%A5-%E5%8D%9A%E5%AE%A2%E5%A2%83%E5%86%85%E8%AE%BF%E9%97%AEIP%E6%9B%B4%E6%8D%A2%E4%B8%BA1-0-0-1/</id>
+    <published>2020-04-19T09:03:27.930Z</published>
+    <updated>2020-04-19T09:03:27.930Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天看了一些自选Cloudflare节点的文章</p><p>于是我自己也想自选节点 就想到了1.0.0.1</p><p>我首先想到改DNS解析1.0.0.1，用CNAME，但是SL说了会被CF封。。于是…这段时间网站就有各种问题出现</p><p>先删掉DNS，改CNAME接入（我用笨牛网），DNS换Dnspod，境外解析CF给的CNAME地址，默认和境内解析1.0.0.1就是了，反正我是这样滴～</p><p>这篇文章就随便说一下啦··</p><p>Cloudflare官网：&lt;a href=/go/?id=<a href="https://www.cloudflare.com" target="_blank" rel="noopener">https://www.cloudflare.com</a> target=_blank&gt;<a href="https://www.cloudflare.com/" target="_blank" rel="noopener">https://www.cloudflare.com/</a></a></p><p>DnsPod官网：&lt;a href=/go/?id=<a href="https://dnspod.cn" target="_blank" rel="noopener">https://dnspod.cn</a> target=_blank&gt;<a href="https://dnspod.cn" target="_blank" rel="noopener">https://dnspod.cn</a></a></p><p>笨牛网CDN：&lt;a href=/go/?id=<a href="https://cdn.bnxb.com&gt;https://cdn.bnxb.com" target="_blank" rel="noopener">https://cdn.bnxb.com&gt;https://cdn.bnxb.com</a></a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天看了一些自选Cloudflare节点的文章&lt;/p&gt;
+&lt;p&gt;于是我自己也想自选节点 就想到了1.0.0.1&lt;/p&gt;
+&lt;p&gt;我首先想到改DNS解析1.0.0.1，用CNAME，但是SL说了会被CF封。。于是…这段时间网站就有各种问题出现&lt;/p&gt;
+&lt;p&gt;先删掉DNS，改CNA
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>软件分享-护卫神主机管理</title>
@@ -35,31 +85,6 @@
 &lt;p&gt;[图片被我砍咯～]&lt;/p&gt;
 &lt;p&gt;[图片被我砍咯～]&lt;/p&gt;
 &lt;p&gt;[图片被
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>分享一个免费云存储（外链）</title>
-    <link href="https://www.yfblog.ml/2020/04/17/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E4%BA%91%E5%AD%98%E5%82%A8%EF%BC%88%E5%A4%96%E9%93%BE%EF%BC%89/"/>
-    <id>https://www.yfblog.ml/2020/04/17/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E4%BA%91%E5%AD%98%E5%82%A8%EF%BC%88%E5%A4%96%E9%93%BE%EF%BC%89/</id>
-    <published>2020-04-17T01:31:29.428Z</published>
-    <updated>2020-04-17T01:31:29.428Z</updated>
-    
-    <content type="html"><![CDATA[<p>目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！</p><p>目前看最大上传大小好像是1025M，原文Maximum upload size per file is 1025MB</p><p>下面是我的测试：</p><p>地址：<a href="https://dmca.gripe/" target="_blank" rel="noopener">https://dmca.gripe/</a></p><p>图片测试：</p><img src=https://share.dmca.gripe/mPKM5YMBOQvHWNZI.jpg width=320 height=133><p><code><a href="https://share.dmca.gripe/mPKM5YMBOQvHWNZI.jpg" target="_blank" rel="noopener">https://share.dmca.gripe/mPKM5YMBOQvHWNZI.jpg</a></code></p><p>音频测试：</p><audio src="https://share.dmca.gripe/N7aBQh8CGcuZQYax.mp3" controls="controls">出现这句话说明你浏览器不支持，并不是挂了.</audio><p><code><a href="https://share.dmca.gripe/N7aBQh8CGcuZQYax.mp3" target="_blank" rel="noopener">https://share.dmca.gripe/N7aBQh8CGcuZQYax.mp3</a></code></p><p>视频测试：</p><p><video src=https://share.dmca.gripe/KllQelgmrsF2hFnA.mp4>看到这个上面应该也不行，和上面一样的话。</video></p><p><code><a href="https://share.dmca.gripe/KllQelgmrsF2hFnA.mp4" target="_blank" rel="noopener">https://share.dmca.gripe/KllQelgmrsF2hFnA.mp4</a></code></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！&lt;/p&gt;
-&lt;p&gt;目前看最大上传大小好像是1025M，原文Maximum upload size per file is 1025MB&lt;/p&gt;
-&lt;p&gt;下面是我的测试：&lt;/p&gt;
-
       
     
     </summary>
@@ -183,31 +208,6 @@
       
       
         &lt;p&gt;&lt;code&gt;Tips:原文地址&lt;a href=&quot;https://moeclub.org/2017/11/19/483/，本文仅提取了文章中安装指令（DHCP）,若需要全文请点击链接查看！&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://moe
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>通知-博客境内访问IP更换为1-0-0-1</title>
-    <link href="https://www.yfblog.ml/2020/04/15/%E9%80%9A%E7%9F%A5-%E5%8D%9A%E5%AE%A2%E5%A2%83%E5%86%85%E8%AE%BF%E9%97%AEIP%E6%9B%B4%E6%8D%A2%E4%B8%BA1-0-0-1/"/>
-    <id>https://www.yfblog.ml/2020/04/15/%E9%80%9A%E7%9F%A5-%E5%8D%9A%E5%AE%A2%E5%A2%83%E5%86%85%E8%AE%BF%E9%97%AEIP%E6%9B%B4%E6%8D%A2%E4%B8%BA1-0-0-1/</id>
-    <published>2020-04-15T04:51:09.266Z</published>
-    <updated>2020-04-15T04:51:09.266Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天看了一些自选Cloudflare节点的文章</p><p>于是我自己也想自选节点 就想到了1.0.0.1</p><p>我首先想到改DNS解析1.0.0.1，用CNAME，但是SL说了会被CF封。。于是…这段时间网站就有各种问题出现</p><p>先删掉DNS，改CNAME接入（我用笨牛网），DNS换Dnspod，境外解析CF给的CNAME地址，默认和境内解析1.0.0.1就是了，反正我是这样滴～</p><p>这篇文章就随便说一下啦··</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天看了一些自选Cloudflare节点的文章&lt;/p&gt;
-&lt;p&gt;于是我自己也想自选节点 就想到了1.0.0.1&lt;/p&gt;
-&lt;p&gt;我首先想到改DNS解析1.0.0.1，用CNAME，但是SL说了会被CF封。。于是…这段时间网站就有各种问题出现&lt;/p&gt;
-&lt;p&gt;先删掉DNS，改CNA
       
     
     </summary>
