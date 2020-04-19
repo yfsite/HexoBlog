@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yfblog.ml/"/>
-  <updated>2020-04-19T09:16:27.014Z</updated>
+  <updated>2020-04-19T10:15:46.984Z</updated>
   <id>https://www.yfblog.ml/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在自己的电脑上杜绝百度的地址</title>
+    <link href="https://www.yfblog.ml/2020/04/19/%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%B5%E8%84%91%E4%B8%8A%E6%9D%9C%E7%BB%9D%E7%99%BE%E5%BA%A6%E7%9A%84%E5%9C%B0%E5%9D%80/"/>
+    <id>https://www.yfblog.ml/2020/04/19/%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%B5%E8%84%91%E4%B8%8A%E6%9D%9C%E7%BB%9D%E7%99%BE%E5%BA%A6%E7%9A%84%E5%9C%B0%E5%9D%80/</id>
+    <published>2020-04-19T10:15:46.984Z</published>
+    <updated>2020-04-19T10:15:46.984Z</updated>
+    
+    <content type="html"><![CDATA[<p>杜绝百度，从我做起</p><p>在hosts加上下面内容将百毒指向本机，达到无法打开百度的目的</p><p>127.0.0.1 baidu.cn</p><p>127.0.0.1 <a href="http://www.baidu.cn" target="_blank" rel="noopener">www.baidu.cn</a></p><p>127.0.0.1 baidu.com.cn</p><p>127.0.0.1 <a href="http://www.baidu.com.cn" target="_blank" rel="noopener">www.baidu.com.cn</a></p><p>127.0.0.1 baidu.com</p><p>127.0.0.1 pcsdata.baidu.com</p><p>127.0.0.1 tieba.baidu.com</p><p>127.0.0.1 zhidao.baidu.com</p><p>127.0.0.1 <a href="http://www.baidu.com" target="_blank" rel="noopener">www.baidu.com</a></p><p>127.0.0.1 pan.baidu.com</p><p>127.0.0.1 news.baidu.com</p><p>127.0.0.1 video.baidu.com</p><p>127.0.0.1 map.baidu.com</p><p>127.0.0.1 music.baidu.com</p><p>127.0.0.1 image.baidu.com</p><p>127.0.0.1 fanyi.baidu.com</p><p>127.0.0.1 wenku.baidu.com</p><p>127.0.0.1 baijiahao.baidu.com</p><p>记得刷新DNS缓存哦！CMD管理员运行输入命令   ipconfig /flushdns    即可</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;杜绝百度，从我做起&lt;/p&gt;
+&lt;p&gt;在hosts加上下面内容将百毒指向本机，达到无法打开百度的目的&lt;/p&gt;
+&lt;p&gt;127.0.0.1 baidu.cn&lt;/p&gt;
+&lt;p&gt;127.0.0.1 &lt;a href=&quot;http://www.baidu.cn&quot; target=&quot;_blank&quot;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>分享一个免费云存储（外链）</title>
