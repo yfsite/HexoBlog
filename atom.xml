@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yfblog.ml/"/>
-  <updated>2020-04-19T11:37:40.817Z</updated>
+  <updated>2020-04-20T00:29:46.292Z</updated>
   <id>https://www.yfblog.ml/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>分享一个免费云存储（外链）</title>
+    <link href="https://www.yfblog.ml/2020/04/20/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E4%BA%91%E5%AD%98%E5%82%A8%EF%BC%88%E5%A4%96%E9%93%BE%EF%BC%89/"/>
+    <id>https://www.yfblog.ml/2020/04/20/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E4%BA%91%E5%AD%98%E5%82%A8%EF%BC%88%E5%A4%96%E9%93%BE%EF%BC%89/</id>
+    <published>2020-04-20T00:29:46.292Z</published>
+    <updated>2020-04-20T00:29:46.292Z</updated>
+    
+    <content type="html"><![CDATA[<p>目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！</p><p>目前看最大上传大小好像是1025M，原文Maximum upload size per file is 1025MB</p><p>下面是我的测试：</p><p>地址：<a href="https://dmca.gripe" target="_blank" rel="noopener">https://dmca.gripe</a></p><p>图片测试：</p><img src=https://share.dmca.gripe/mPKM5YMBOQvHWNZI.jpg width=320 height=133><p>音频测试：</p><audio src="https://share.dmca.gripe/N7aBQh8CGcuZQYax.mp3" controls="controls">出现这句话说明你浏览器不支持，并不是挂了.</audio><p>视频测试：</p><p>部分原因，取消本测试</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！&lt;/p&gt;
+&lt;p&gt;目前看最大上传大小好像是1025M，原文Maximum upload size per file is 1025MB&lt;/p&gt;
+&lt;p&gt;下面是我的测试：&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>在自己的电脑上杜绝百度的地址</title>
@@ -33,31 +58,6 @@
 &lt;p&gt;HOSTS文件地址：C:\Windows\System32\drives\etc\HOSTS  C换成自己盘符&lt;/p&gt;
 &lt;p&gt;在hosts加上下面内容将百毒指向本机，达到无法打开百度的目的&lt;/p&gt;
 &lt;p&gt;127.0.0.1 baidu.cn
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>分享一个免费云存储（外链）</title>
-    <link href="https://www.yfblog.ml/2020/04/19/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E4%BA%91%E5%AD%98%E5%82%A8%EF%BC%88%E5%A4%96%E9%93%BE%EF%BC%89/"/>
-    <id>https://www.yfblog.ml/2020/04/19/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E4%BA%91%E5%AD%98%E5%82%A8%EF%BC%88%E5%A4%96%E9%93%BE%EF%BC%89/</id>
-    <published>2020-04-19T09:16:27.014Z</published>
-    <updated>2020-04-19T09:16:27.014Z</updated>
-    
-    <content type="html"><![CDATA[<p>目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！</p><p>目前看最大上传大小好像是1025M，原文Maximum upload size per file is 1025MB</p><p>下面是我的测试：</p><p>地址：<a href="https://www.yfblog.ml/go/?id=https://dmca.gripe/">https://dmca.gripe</a></p><p>图片测试：</p><img src=https://share.dmca.gripe/mPKM5YMBOQvHWNZI.jpg width=320 height=133><p>音频测试：</p><audio src="https://share.dmca.gripe/N7aBQh8CGcuZQYax.mp3" controls="controls">出现这句话说明你浏览器不支持，并不是挂了.</audio><p>视频测试：</p><p>部分原因，取消本测试</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！&lt;/p&gt;
-&lt;p&gt;目前看最大上传大小好像是1025M，原文Maximum upload size per file is 1025MB&lt;/p&gt;
-&lt;p&gt;下面是我的测试：&lt;/p&gt;
-
       
     
     </summary>
