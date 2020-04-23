@@ -23,13 +23,13 @@
     <published>2020-04-20T00:29:46.292Z</published>
     <updated>2020-04-20T00:29:46.292Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p>目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！</p><p>目前看最大上传大小好像是1025M，原文Maximum upload size per file is 1025MB</p><p>下面是我的测试：</p><p>地址：<a href="https://dmca.gripe" target="_blank" rel="noopener">https://dmca.gripe</a></p><p>图片测试：</p><img src="https://share.dmca.gripe/mPKM5YMBOQvHWNZI.jpg" width="320" height="133"><p>音频测试：</p><audio src="https://share.dmca.gripe/N7aBQh8CGcuZQYax.mp3" controls>出现这句话说明你浏览器不支持，并不是挂了.</audio><p>视频测试：</p><p>部分原因，取消本测试</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p>目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！</p><p>目前看最大上传大小好像是1025M，原文Maximum upload size per file is 1025MB</p><p>下面是我的测试：</p><p>地址：<a href="https://dmca.gripe" target="_blank" rel="noopener">https://dmca.gripe</a></p><p>图片测试：</p><img src="https://share.dmca.gripe/mPKM5YMBOQvHWNZI.jpg" width="320" height="133"><p>音频测试：</p><audio src="https://share.dmca.gripe/N7aBQh8CGcuZQYax.mp3" controls>出现这句话说明你浏览器不支持，并不是挂了.</audio><p>视频测试：</p><p>部分原因，取消本测试</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！&lt;/p&gt;&lt;p&gt;目前看最大上传大小好像是1025M，原文M
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！&lt;/p&gt;&lt;p&gt;目前看最大上传大小好像是1025M，原文M
       
     
     </summary>
@@ -45,13 +45,13 @@
     <published>2020-04-19T11:37:40.817Z</published>
     <updated>2020-04-19T11:37:40.817Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p>杜绝百度，从我做起</p><p>HOSTS文件地址：C:\Windows\System32\drives\etc\HOSTS C换成自己盘符</p><p>在hosts加上下面内容将百毒指向本机，达到无法打开百度的目的</p><p>127.0.0.1 baidu.cn</p><p>127.0.0.1 <a href="http://www.baidu.cn" target="_blank" rel="noopener">www.baidu.cn</a></p><p>127.0.0.1 baidu.com.cn</p><p>127.0.0.1 <a href="http://www.baidu.com.cn" target="_blank" rel="noopener">www.baidu.com.cn</a></p><p>127.0.0.1 baidu.com</p><p>127.0.0.1 pcsdata.baidu.com</p><p>127.0.0.1 tieba.baidu.com</p><p>127.0.0.1 zhidao.baidu.com</p><p>127.0.0.1 <a href="http://www.baidu.com" target="_blank" rel="noopener">www.baidu.com</a></p><p>127.0.0.1 pan.baidu.com</p><p>127.0.0.1 news.baidu.com</p><p>127.0.0.1 video.baidu.com</p><p>127.0.0.1 map.baidu.com</p><p>127.0.0.1 music.baidu.com</p><p>127.0.0.1 image.baidu.com</p><p>127.0.0.1 fanyi.baidu.com</p><p>127.0.0.1 wenku.baidu.com</p><p>127.0.0.1 baijiahao.baidu.com</p><p>更多（来源SL）：<a href="https://boke.hy0.site/bdnmsl.txt" download="https://boke.hy0.site/bdnmsl.txt" target="_blank">点我下载/TXT/BDNMSL.TXT</a></p><p>记得刷新DNS缓存哦！CMD管理员运行输入命令 ipconfig /flushdns 即可</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p>杜绝百度，从我做起</p><p>HOSTS文件地址：C:\Windows\System32\drives\etc\HOSTS C换成自己盘符</p><p>在hosts加上下面内容将百毒指向本机，达到无法打开百度的目的</p><p>127.0.0.1 baidu.cn</p><p>127.0.0.1 <a href="http://www.baidu.cn" target="_blank" rel="noopener">www.baidu.cn</a></p><p>127.0.0.1 baidu.com.cn</p><p>127.0.0.1 <a href="http://www.baidu.com.cn" target="_blank" rel="noopener">www.baidu.com.cn</a></p><p>127.0.0.1 baidu.com</p><p>127.0.0.1 pcsdata.baidu.com</p><p>127.0.0.1 tieba.baidu.com</p><p>127.0.0.1 zhidao.baidu.com</p><p>127.0.0.1 <a href="http://www.baidu.com" target="_blank" rel="noopener">www.baidu.com</a></p><p>127.0.0.1 pan.baidu.com</p><p>127.0.0.1 news.baidu.com</p><p>127.0.0.1 video.baidu.com</p><p>127.0.0.1 map.baidu.com</p><p>127.0.0.1 music.baidu.com</p><p>127.0.0.1 image.baidu.com</p><p>127.0.0.1 fanyi.baidu.com</p><p>127.0.0.1 wenku.baidu.com</p><p>127.0.0.1 baijiahao.baidu.com</p><p>更多（来源SL）：<a href="https://boke.hy0.site/bdnmsl.txt" download="https://boke.hy0.site/bdnmsl.txt" target="_blank">点我下载/TXT/BDNMSL.TXT</a></p><p>记得刷新DNS缓存哦！CMD管理员运行输入命令 ipconfig /flushdns 即可</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;杜绝百度，从我做起&lt;/p&gt;&lt;p&gt;HOSTS文件地址：C:\Windows\System32\drives\etc\HOSTS C换成自己盘符&lt;/p&gt;&lt;p&gt;在
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;杜绝百度，从我做起&lt;/p&gt;&lt;p&gt;HOSTS文件地址：C:\Windows\System32\drives\etc\HOSTS C换成自己盘符&lt;/p&gt;&lt;p&gt;在
       
     
     </summary>
@@ -67,13 +67,13 @@
     <published>2020-04-19T02:35:53.209Z</published>
     <updated>2020-04-19T02:35:53.209Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p>分享个主机管理系统</p><p>我现在网站状态那个网站就是用护卫神+护卫神前台源码魔改的</p><p>我感觉比原来IIS好操作点，如果拿来销售或者是嫌IIS难用可以下载来试试哦～</p><p>[图片被我砍咯～]</p><p>[图片被我砍咯～]</p><p>[图片被我砍咯～]</p><p>[图片被我砍咯～]</p><p>下载地址：<a href="https://boke.hy0.site/hws.exe" download="https://boke.hy0.site/hws.exe" target="_blank">点我下载/EXE文件/HWS.EXE</a></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p>分享个主机管理系统</p><p>我现在网站状态那个网站就是用护卫神+护卫神前台源码魔改的</p><p>我感觉比原来IIS好操作点，如果拿来销售或者是嫌IIS难用可以下载来试试哦～</p><p>[图片被我砍咯～]</p><p>[图片被我砍咯～]</p><p>[图片被我砍咯～]</p><p>[图片被我砍咯～]</p><p>下载地址：<a href="https://boke.hy0.site/hws.exe" download="https://boke.hy0.site/hws.exe" target="_blank">点我下载/EXE文件/HWS.EXE</a></p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;分享个主机管理系统&lt;/p&gt;&lt;p&gt;我现在网站状态那个网站就是用护卫神+护卫神前台源码魔改的&lt;/p&gt;&lt;p&gt;我感觉比原来IIS好操作点，如果拿来销售或者是嫌IIS
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;分享个主机管理系统&lt;/p&gt;&lt;p&gt;我现在网站状态那个网站就是用护卫神+护卫神前台源码魔改的&lt;/p&gt;&lt;p&gt;我感觉比原来IIS好操作点，如果拿来销售或者是嫌IIS
       
     
     </summary>
@@ -89,13 +89,13 @@
     <published>2020-04-17T00:51:44.997Z</published>
     <updated>2020-04-17T00:51:44.997Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p>以后博客更新不在这里浪费文章</p><p>文章都被刷下去了.</p><p>地址：<a href="https://info.yfblog.ml/default.asp" target="_blank" rel="noopener">https://info.yfblog.ml/default.asp</a></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p>以后博客更新不在这里浪费文章</p><p>文章都被刷下去了.</p><p>地址：<a href="https://info.yfblog.ml/default.asp" target="_blank" rel="noopener">https://info.yfblog.ml/default.asp</a></p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;以后博客更新不在这里浪费文章&lt;/p&gt;&lt;p&gt;文章都被刷下去了.&lt;/p&gt;&lt;p&gt;地址：&lt;a href=&quot;https://info.yfblog.ml/defaul
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;以后博客更新不在这里浪费文章&lt;/p&gt;&lt;p&gt;文章都被刷下去了.&lt;/p&gt;&lt;p&gt;地址：&lt;a href=&quot;https://info.yfblog.ml/defaul
       
     
     </summary>
@@ -111,13 +111,13 @@
     <published>2020-04-15T13:30:22.159Z</published>
     <updated>2020-04-15T13:30:22.159Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p>TMD百度不要脸？？</p><p>坐等回归…</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p>TMD百度不要脸？？</p><p>坐等回归…</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;TMD百度不要脸？？&lt;/p&gt;&lt;p&gt;坐等回归…&lt;/p&gt;&lt;!-- rebuild by neat --&gt;
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;TMD百度不要脸？？&lt;/p&gt;&lt;p&gt;坐等回归…&lt;/p&gt;&lt;!-- rebuild by neat --&gt;
       
     
     </summary>
@@ -133,13 +133,13 @@
     <published>2020-04-15T13:29:50.679Z</published>
     <updated>2020-04-15T13:29:50.679Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p>今天Pandownload PC版作者被抓</p><p>百度你的良心何在？？</p><p>限速1KB/S还有脸</p><p>老子永远不用百度</p><p>推荐使用Bing或者Google！</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p>今天Pandownload PC版作者被抓</p><p>百度你的良心何在？？</p><p>限速1KB/S还有脸</p><p>老子永远不用百度</p><p>推荐使用Bing或者Google！</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;今天Pandownload PC版作者被抓&lt;/p&gt;&lt;p&gt;百度你的良心何在？？&lt;/p&gt;&lt;p&gt;限速1KB/S还有脸&lt;/p&gt;&lt;p&gt;老子永远不用百度&lt;/p&gt;&lt;p&gt;推
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;今天Pandownload PC版作者被抓&lt;/p&gt;&lt;p&gt;百度你的良心何在？？&lt;/p&gt;&lt;p&gt;限速1KB/S还有脸&lt;/p&gt;&lt;p&gt;老子永远不用百度&lt;/p&gt;&lt;p&gt;推
       
     
     </summary>
@@ -155,13 +155,13 @@
     <published>2020-04-15T11:44:38.154Z</published>
     <updated>2020-04-15T11:44:38.154Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p>刚刚，pandownload作者被抓</p><p>下面是我找到的图片：</p><img src="https://s1.ax1x.com/2020/04/15/JPYo9A.jpg"> <img src="https://s1.ax1x.com/2020/04/15/JPY5hd.png"><p>我在群里看有人发，最晚一小时前，最快43秒前，看样子是我忙之前被抓的！</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p>刚刚，pandownload作者被抓</p><p>下面是我找到的图片：</p><img src="https://s1.ax1x.com/2020/04/15/JPYo9A.jpg"> <img src="https://s1.ax1x.com/2020/04/15/JPY5hd.png"><p>我在群里看有人发，最晚一小时前，最快43秒前，看样子是我忙之前被抓的！</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;刚刚，pandownload作者被抓&lt;/p&gt;&lt;p&gt;下面是我找到的图片：&lt;/p&gt;&lt;img src=&quot;https://s1.ax1x.com/2020/04/1
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;刚刚，pandownload作者被抓&lt;/p&gt;&lt;p&gt;下面是我找到的图片：&lt;/p&gt;&lt;img src=&quot;https://s1.ax1x.com/2020/04/1
       
     
     </summary>
@@ -177,13 +177,13 @@
     <published>2020-04-15T07:12:28.242Z</published>
     <updated>2020-04-15T07:12:28.242Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p><code>Tips:原文地址<a href="https://moeclub.org/2017/11/19/483/，本文仅提取了文章中安装指令（DHCP）,若需要全文请点击链接查看！" target="_blank" rel="noopener">https://moeclub.org/2017/11/19/483/，本文仅提取了文章中安装指令（DHCP）,若需要全文请点击链接查看！</a></code></p><p>Tips:系统安装CentOS7.6</p><p>脚本如下:</p><p>win7版:</p><p>wget –no-check-certificate -qO InstallNET.sh ‘<a href="https://moeclub.org/attachment/LinuxShell/InstallNET.sh’" target="_blank" rel="noopener">https://moeclub.org/attachment/LinuxShell/InstallNET.sh’</a> &amp;&amp; bash InstallNET.sh -dd ‘<a href="https://moeclub.org/onedrive/IMAGE/Windows/win7emb_x86.tar.gz’" target="_blank" rel="noopener">https://moeclub.org/onedrive/IMAGE/Windows/win7emb_x86.tar.gz’</a><br>远程登陆账号为: Administrator</p><p>远程登陆密码为: Vicer</p><p>Windows2012R2版：</p><p>wget –no-check-certificate -qO- ‘<a href="https://moeclub.org/attachment/LinuxShell/InstallNET.sh’" target="_blank" rel="noopener">https://moeclub.org/attachment/LinuxShell/InstallNET.sh’</a>) -dd “<a href="https://fr1.teddyvps.com/iso/cn_windows2012r2.gz”" target="_blank" rel="noopener">https://fr1.teddyvps.com/iso/cn_windows2012r2.gz”</a></p><p>账号administrator</p><p>密码Password147</p><p>win2008版:<br>wget –no-check-certificate -qO InstallNET.sh ‘<a href="https://moeclub.org/attachment/LinuxShell/InstallNET.sh’" target="_blank" rel="noopener">https://moeclub.org/attachment/LinuxShell/InstallNET.sh’</a> &amp;&amp; bash InstallNET.sh -dd ‘<a href="http://down.80host.com/iso/dd/WinSrv2008x64-Chinese_datacenter_sp1_vl_kvm_xen.vhd.gz’" target="_blank" rel="noopener">http://down.80host.com/iso/dd/WinSrv2008x64-Chinese_datacenter_sp1_vl_kvm_xen.vhd.gz’</a></p><p>账户：Administrator</p><p>密码：WinSrv2008x64-Chinese<br>上面的脚本必须一个标点符号都不能少</p><p>执行成功会自己断开连接，然后等20-60分钟就可以了</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p><code>Tips:原文地址<a href="https://moeclub.org/2017/11/19/483/，本文仅提取了文章中安装指令（DHCP）,若需要全文请点击链接查看！" target="_blank" rel="noopener">https://moeclub.org/2017/11/19/483/，本文仅提取了文章中安装指令（DHCP）,若需要全文请点击链接查看！</a></code></p><p>Tips:系统安装CentOS7.6</p><p>脚本如下:</p><p>win7版:</p><p>wget –no-check-certificate -qO InstallNET.sh ‘<a href="https://moeclub.org/attachment/LinuxShell/InstallNET.sh’" target="_blank" rel="noopener">https://moeclub.org/attachment/LinuxShell/InstallNET.sh’</a> &amp;&amp; bash InstallNET.sh -dd ‘<a href="https://moeclub.org/onedrive/IMAGE/Windows/win7emb_x86.tar.gz’" target="_blank" rel="noopener">https://moeclub.org/onedrive/IMAGE/Windows/win7emb_x86.tar.gz’</a><br>远程登陆账号为: Administrator</p><p>远程登陆密码为: Vicer</p><p>Windows2012R2版：</p><p>wget –no-check-certificate -qO- ‘<a href="https://moeclub.org/attachment/LinuxShell/InstallNET.sh’" target="_blank" rel="noopener">https://moeclub.org/attachment/LinuxShell/InstallNET.sh’</a>) -dd “<a href="https://fr1.teddyvps.com/iso/cn_windows2012r2.gz”" target="_blank" rel="noopener">https://fr1.teddyvps.com/iso/cn_windows2012r2.gz”</a></p><p>账号administrator</p><p>密码Password147</p><p>win2008版:<br>wget –no-check-certificate -qO InstallNET.sh ‘<a href="https://moeclub.org/attachment/LinuxShell/InstallNET.sh’" target="_blank" rel="noopener">https://moeclub.org/attachment/LinuxShell/InstallNET.sh’</a> &amp;&amp; bash InstallNET.sh -dd ‘<a href="http://down.80host.com/iso/dd/WinSrv2008x64-Chinese_datacenter_sp1_vl_kvm_xen.vhd.gz’" target="_blank" rel="noopener">http://down.80host.com/iso/dd/WinSrv2008x64-Chinese_datacenter_sp1_vl_kvm_xen.vhd.gz’</a></p><p>账户：Administrator</p><p>密码：WinSrv2008x64-Chinese<br>上面的脚本必须一个标点符号都不能少</p><p>执行成功会自己断开连接，然后等20-60分钟就可以了</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;&lt;code&gt;Tips:原文地址&lt;a href=&quot;https://moeclub.org/2017/11/19/483/，本文仅提取了文章中安装指令（DHCP
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;&lt;code&gt;Tips:原文地址&lt;a href=&quot;https://moeclub.org/2017/11/19/483/，本文仅提取了文章中安装指令（DHCP
       
     
     </summary>
@@ -199,13 +199,13 @@
     <published>2020-04-15T01:53:00.338Z</published>
     <updated>2020-04-15T01:53:00.338Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p>直接进正题，我的手机没有插卡，每天凌晨0～5点会有H、D、D类型的短信，而且发件地址为邮箱地址，非常奇怪，有时中文有时英文，大多为AMDC.</p><p>各位有想法的麻烦评论告诉我吧</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p>直接进正题，我的手机没有插卡，每天凌晨0～5点会有H、D、D类型的短信，而且发件地址为邮箱地址，非常奇怪，有时中文有时英文，大多为AMDC.</p><p>各位有想法的麻烦评论告诉我吧</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;直接进正题，我的手机没有插卡，每天凌晨0～5点会有H、D、D类型的短信，而且发件地址为邮箱地址，非常奇怪，有时中文有时英文，大多为AMDC.&lt;/p&gt;&lt;p&gt;各
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;直接进正题，我的手机没有插卡，每天凌晨0～5点会有H、D、D类型的短信，而且发件地址为邮箱地址，非常奇怪，有时中文有时英文，大多为AMDC.&lt;/p&gt;&lt;p&gt;各
       
     
     </summary>
@@ -221,13 +221,13 @@
     <published>2020-04-14T09:07:54.262Z</published>
     <updated>2020-04-14T09:07:54.262Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p>博客域名更换了，因为以前的域名被举报涉H</p><p>新域名：<a href="https://www.yfblog.ml">https://www.yfblog.ml</a></p><p>原域名过会时间启动跳转.</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p>博客域名更换了，因为以前的域名被举报涉H</p><p>新域名：<a href="https://www.yfblog.ml">https://www.yfblog.ml</a></p><p>原域名过会时间启动跳转.</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;博客域名更换了，因为以前的域名被举报涉H&lt;/p&gt;&lt;p&gt;新域名：&lt;a href=&quot;https://www.yfblog.ml&quot;&gt;https://www.yfb
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;博客域名更换了，因为以前的域名被举报涉H&lt;/p&gt;&lt;p&gt;新域名：&lt;a href=&quot;https://www.yfblog.ml&quot;&gt;https://www.yfb
       
     
     </summary>
@@ -243,13 +243,13 @@
     <published>2020-04-14T04:25:24.410Z</published>
     <updated>2020-04-14T04:25:24.410Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p>关于这个吗。。肯定不是！</p><p>我也没有在博客里说什么违法涉H啊？？</p><p>谁是不是用了举报器的，如果申诉一直没过我就得换域名了，所以目前先不启动WWW跳转功能！</p><p>如果大家有空也帮我申诉一下啊……</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p>关于这个吗。。肯定不是！</p><p>我也没有在博客里说什么违法涉H啊？？</p><p>谁是不是用了举报器的，如果申诉一直没过我就得换域名了，所以目前先不启动WWW跳转功能！</p><p>如果大家有空也帮我申诉一下啊……</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;关于这个吗。。肯定不是！&lt;/p&gt;&lt;p&gt;我也没有在博客里说什么违法涉H啊？？&lt;/p&gt;&lt;p&gt;谁是不是用了举报器的，如果申诉一直没过我就得换域名了，所以目前先不启
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;关于这个吗。。肯定不是！&lt;/p&gt;&lt;p&gt;我也没有在博客里说什么违法涉H啊？？&lt;/p&gt;&lt;p&gt;谁是不是用了举报器的，如果申诉一直没过我就得换域名了，所以目前先不启
       
     
     </summary>
@@ -265,13 +265,13 @@
     <published>2020-04-14T04:23:42.694Z</published>
     <updated>2020-04-14T04:23:42.694Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p>我搭建了一个谷歌镜像站，之后会出教程的哈）</p><p>地址：<a href="http://g.eivm.tk" target="_blank">http://g.eivm.tk</a></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p>我搭建了一个谷歌镜像站，之后会出教程的哈）</p><p>地址：<a href="http://g.eivm.tk" target="_blank">http://g.eivm.tk</a></p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;我搭建了一个谷歌镜像站，之后会出教程的哈）&lt;/p&gt;&lt;p&gt;地址：&lt;a href=&quot;http://g.eivm.tk&quot; target=&quot;_blank&quot;&gt;http
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;我搭建了一个谷歌镜像站，之后会出教程的哈）&lt;/p&gt;&lt;p&gt;地址：&lt;a href=&quot;http://g.eivm.tk&quot; target=&quot;_blank&quot;&gt;http
       
     
     </summary>
@@ -287,13 +287,13 @@
     <published>2020-04-13T05:23:23.537Z</published>
     <updated>2020-04-13T05:23:23.537Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p><code>Tips：本文来自火绒安全，原文地址<a href="https://www.huorong.cn/info/1586519906455.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586519906455.html</a></code></p><p>随着针对WannaRen勒索病毒的解密工具推出，对于该病毒的事件终于告一段落。至此，我们梳理了一下整个事件，将病毒的现身、分析、溯源以及解密过程进行汇总，发现充满戏剧性。此外，本文还对事件 过程中出现的一些不确定的问题进行解答，帮助大家更好的了解该勒索病毒。<br><img src="https://www.huorong.cn/d/file/2020-04-10/1b6805ad1d23ba13287fbd3519b6f73c.png"><br>一、出现：始于清明扩散全网</p><p>1、4月4日，火绒收到感染WannaRen勒索病毒的网友求助，工程师远程查看现场后，提取了勒索信等信息，但并未发现真实的病毒样本。</p><p>2、4月5、6日，知乎、贴吧、相关论坛等网络平台逐渐出现感染该病毒用户的求助和相关讨论。火绒也第一时间将网传的病毒样本做紧急响应处理。</p><p>3、4月7日，部分媒体对该病毒进行报道，微博出现相关话题，引发广泛关注。</p><img src="https://www.huorong.cn/d/file/2020-04-10/f5c797759892ea92c174816cc3e5b306.png" width="372" height="340"><p>二、分析：网传样本为解密器</p><p>4、4月8日，火绒工程师分析网传的病毒样本实际为病毒作者留下来收取赎金的解密器，不具备任何恶意代码，真正的病毒已经在感染电脑后就自我删除。</p><p>5、4月8日，火绒溯源到真实的病毒样本，并紧急对该病毒样本进行拦截、查杀。同时解除对上述网传样本（即解密器）的紧急响应。</p><img src="https://www.huorong.cn/d/file/2020-04-10/29b9deaaf517426edc291808fab0006b.png"><p>三、溯源：下载站出现病毒同源传播脚本</p><p>6、4月8日下午，通过对真正的病毒样本进行分析溯源，我们捕获到其传播脚本，发现：</p><p>（1）病毒会在本地同时执行下载挖矿病毒和勒索病毒两个命令，</p><p>（2）病毒可以通过“永恒之蓝”漏洞进行横向传播，</p><p>（3）使用了非对称的加密方式，当时无法对其进行解密。</p><p>（4）使用易语言编写，基本排除与“WannaCry”勒索病毒具有同源性。</p><p>7、4月8日晚间，火绒发布详细分析报告，指出国内下载站出现携带与病毒传播代码具有同源性的恶意软件，不排除病毒曾将下载站作为传播渠道之一的可能性。</p><img src="https://www.huorong.cn/d/file/2020-04-10/0dda39276eae05c253f8eaaba4c85830.png"><p>四、解密：戏剧性反转 作者主动提供密钥</p><p>8、4月9日上午，WannaRen勒索病毒作者通过用户向火绒提供了相关解密密钥，火绒工程师验证有效后，将密钥公布出，号召广大同行共同制作解密工具，帮助受影响用户挽回损失。</p><img src="https://www.huorong.cn/d/file/2020-04-10/6187805286b38e835cd9b3df775e0a58.jpg"><p>（图中“火绒工作室****@huorong.ltd”为用户私人邮箱）</p><p>9、4月9日晚，火绒推出针对WannaRen勒索病毒的解密工具，安装后即可一键恢复被该病毒加密的文件。</p><img src="https://www.huorong.cn/d/file/2020-04-10/6e1beeeb437a68ef6c262af9dc6c1db4.png"><p>五、相关争议问题</p><p>1、 WannaRen勒索病毒具备“横向传播”能力吗？</p><p>这里的横向传播应该是局域网内传播。准确的说，该勒索病毒本身不具备“横向传播”的能力，但“永恒之蓝”可以携带该病毒进行横向传播。</p><p>2、WannaRen勒索病毒可以穿透虚拟机吗？</p><p>不能进行“穿透”。因为修复永恒之蓝漏洞，并断开网络后，该病毒就无法在虚拟机和主机之间互相感染，网传“穿透”实际上是在联网环境下的“横向传播”。</p><p>3、网传病毒可通过TXT文本格式和图片形式进行传播是否为真？</p><p>根据火绒目前溯源分析的结果看，该病毒或主要以永恒之蓝漏洞和下载站为传播方式，暂时未发现利用TXT文本格式和图片等文件进行传播的迹象。</p><p>4、为何此前有报道指出“大部分杀毒软件无法对该病毒进行查杀”？</p><p>这可能是一个误会。因为开始阶段网传的病毒样本为无危害的解密器，并非真实的病毒，并且下发该勒索病毒的域名已被主流安全厂商拦截。目前，火绒可以对真实的病毒进行全方位的辨识、拦截、查杀。</p><p>5、网传WannaRen勒索病毒与WannaCry的比特币钱包地址一样，是否为其变种或同一伙人作案？</p><p>WannaRen勒索病毒与WannaCry的比特币钱包地址不一样。并且从该病毒作者使用易语言编写、邮件中使用中文交流等情况看，极有可能是国人所为。</p><p>6、修复了永恒之蓝漏洞还会被感染吗？</p><p>漏洞只是该病毒传播的方式之一，不排除其还有其它传播途径（例如下载站）。</p><p>总结：勒索病毒目前依旧是危害较大的病毒之一，除了极少数幸运的情况（比如此次病毒作者主动提供密钥），基本无法解密。对于勒索病毒，还是要时刻提高警惕，将重要文件及时进行备份。此次事件随着病毒作者的主动提供密钥，以及停止下发病毒告一段落。我们也已经将此次所有分析内容交由警方，以便他们追踪处理。</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p><code>Tips：本文来自火绒安全，原文地址<a href="https://www.huorong.cn/info/1586519906455.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586519906455.html</a></code></p><p>随着针对WannaRen勒索病毒的解密工具推出，对于该病毒的事件终于告一段落。至此，我们梳理了一下整个事件，将病毒的现身、分析、溯源以及解密过程进行汇总，发现充满戏剧性。此外，本文还对事件 过程中出现的一些不确定的问题进行解答，帮助大家更好的了解该勒索病毒。<br><img src="https://www.huorong.cn/d/file/2020-04-10/1b6805ad1d23ba13287fbd3519b6f73c.png"><br>一、出现：始于清明扩散全网</p><p>1、4月4日，火绒收到感染WannaRen勒索病毒的网友求助，工程师远程查看现场后，提取了勒索信等信息，但并未发现真实的病毒样本。</p><p>2、4月5、6日，知乎、贴吧、相关论坛等网络平台逐渐出现感染该病毒用户的求助和相关讨论。火绒也第一时间将网传的病毒样本做紧急响应处理。</p><p>3、4月7日，部分媒体对该病毒进行报道，微博出现相关话题，引发广泛关注。</p><img src="https://www.huorong.cn/d/file/2020-04-10/f5c797759892ea92c174816cc3e5b306.png" width="372" height="340"><p>二、分析：网传样本为解密器</p><p>4、4月8日，火绒工程师分析网传的病毒样本实际为病毒作者留下来收取赎金的解密器，不具备任何恶意代码，真正的病毒已经在感染电脑后就自我删除。</p><p>5、4月8日，火绒溯源到真实的病毒样本，并紧急对该病毒样本进行拦截、查杀。同时解除对上述网传样本（即解密器）的紧急响应。</p><img src="https://www.huorong.cn/d/file/2020-04-10/29b9deaaf517426edc291808fab0006b.png"><p>三、溯源：下载站出现病毒同源传播脚本</p><p>6、4月8日下午，通过对真正的病毒样本进行分析溯源，我们捕获到其传播脚本，发现：</p><p>（1）病毒会在本地同时执行下载挖矿病毒和勒索病毒两个命令，</p><p>（2）病毒可以通过“永恒之蓝”漏洞进行横向传播，</p><p>（3）使用了非对称的加密方式，当时无法对其进行解密。</p><p>（4）使用易语言编写，基本排除与“WannaCry”勒索病毒具有同源性。</p><p>7、4月8日晚间，火绒发布详细分析报告，指出国内下载站出现携带与病毒传播代码具有同源性的恶意软件，不排除病毒曾将下载站作为传播渠道之一的可能性。</p><img src="https://www.huorong.cn/d/file/2020-04-10/0dda39276eae05c253f8eaaba4c85830.png"><p>四、解密：戏剧性反转 作者主动提供密钥</p><p>8、4月9日上午，WannaRen勒索病毒作者通过用户向火绒提供了相关解密密钥，火绒工程师验证有效后，将密钥公布出，号召广大同行共同制作解密工具，帮助受影响用户挽回损失。</p><img src="https://www.huorong.cn/d/file/2020-04-10/6187805286b38e835cd9b3df775e0a58.jpg"><p>（图中“火绒工作室****@huorong.ltd”为用户私人邮箱）</p><p>9、4月9日晚，火绒推出针对WannaRen勒索病毒的解密工具，安装后即可一键恢复被该病毒加密的文件。</p><img src="https://www.huorong.cn/d/file/2020-04-10/6e1beeeb437a68ef6c262af9dc6c1db4.png"><p>五、相关争议问题</p><p>1、 WannaRen勒索病毒具备“横向传播”能力吗？</p><p>这里的横向传播应该是局域网内传播。准确的说，该勒索病毒本身不具备“横向传播”的能力，但“永恒之蓝”可以携带该病毒进行横向传播。</p><p>2、WannaRen勒索病毒可以穿透虚拟机吗？</p><p>不能进行“穿透”。因为修复永恒之蓝漏洞，并断开网络后，该病毒就无法在虚拟机和主机之间互相感染，网传“穿透”实际上是在联网环境下的“横向传播”。</p><p>3、网传病毒可通过TXT文本格式和图片形式进行传播是否为真？</p><p>根据火绒目前溯源分析的结果看，该病毒或主要以永恒之蓝漏洞和下载站为传播方式，暂时未发现利用TXT文本格式和图片等文件进行传播的迹象。</p><p>4、为何此前有报道指出“大部分杀毒软件无法对该病毒进行查杀”？</p><p>这可能是一个误会。因为开始阶段网传的病毒样本为无危害的解密器，并非真实的病毒，并且下发该勒索病毒的域名已被主流安全厂商拦截。目前，火绒可以对真实的病毒进行全方位的辨识、拦截、查杀。</p><p>5、网传WannaRen勒索病毒与WannaCry的比特币钱包地址一样，是否为其变种或同一伙人作案？</p><p>WannaRen勒索病毒与WannaCry的比特币钱包地址不一样。并且从该病毒作者使用易语言编写、邮件中使用中文交流等情况看，极有可能是国人所为。</p><p>6、修复了永恒之蓝漏洞还会被感染吗？</p><p>漏洞只是该病毒传播的方式之一，不排除其还有其它传播途径（例如下载站）。</p><p>总结：勒索病毒目前依旧是危害较大的病毒之一，除了极少数幸运的情况（比如此次病毒作者主动提供密钥），基本无法解密。对于勒索病毒，还是要时刻提高警惕，将重要文件及时进行备份。此次事件随着病毒作者的主动提供密钥，以及停止下发病毒告一段落。我们也已经将此次所有分析内容交由警方，以便他们追踪处理。</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;&lt;code&gt;Tips：本文来自火绒安全，原文地址&lt;a href=&quot;https://www.huorong.cn/info/1586519906455.htm
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;&lt;code&gt;Tips：本文来自火绒安全，原文地址&lt;a href=&quot;https://www.huorong.cn/info/1586519906455.htm
       
     
     </summary>
@@ -309,13 +309,13 @@
     <published>2020-04-13T05:06:53.228Z</published>
     <updated>2020-04-13T05:06:53.228Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p><code>Tips：本文来自火绒安全，原文地址<a href="https://www.huorong.cn/info/1586440740454.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586440740454.html</a></code></p><p>目前，火绒根据WannaRen勒索病毒作者提供的密钥，已经制作出针对该病毒的解密工具（下载地址：<a href="https://www.huorong.cn/download/tools/wannaren_decryptor/HRDecryptor.exe）。安装运行后，只需点击“开始扫描”即可对被WannaRen勒索病毒加密的文件进行一键全盘解密，也可以将文件直接拖入工具框进行解密，无需其它操作。如果大家在使用中遇到其它相关问题，可随时联系我们获得帮助。" target="_blank" rel="noopener">https://www.huorong.cn/download/tools/wannaren_decryptor/HRDecryptor.exe）。安装运行后，只需点击“开始扫描”即可对被WannaRen勒索病毒加密的文件进行一键全盘解密，也可以将文件直接拖入工具框进行解密，无需其它操作。如果大家在使用中遇到其它相关问题，可随时联系我们获得帮助。</a><br><img src="https://www.huorong.cn/d/file/2020-04-09/f8e48d3f354cda3b028daceae20cd215.png"><br>此外，为避免不必要的风险，我们不建议大家使用WannaRen勒索病毒作者制作的解密工具自行解密文件。</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p><code>Tips：本文来自火绒安全，原文地址<a href="https://www.huorong.cn/info/1586440740454.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586440740454.html</a></code></p><p>目前，火绒根据WannaRen勒索病毒作者提供的密钥，已经制作出针对该病毒的解密工具（下载地址：<a href="https://www.huorong.cn/download/tools/wannaren_decryptor/HRDecryptor.exe）。安装运行后，只需点击“开始扫描”即可对被WannaRen勒索病毒加密的文件进行一键全盘解密，也可以将文件直接拖入工具框进行解密，无需其它操作。如果大家在使用中遇到其它相关问题，可随时联系我们获得帮助。" target="_blank" rel="noopener">https://www.huorong.cn/download/tools/wannaren_decryptor/HRDecryptor.exe）。安装运行后，只需点击“开始扫描”即可对被WannaRen勒索病毒加密的文件进行一键全盘解密，也可以将文件直接拖入工具框进行解密，无需其它操作。如果大家在使用中遇到其它相关问题，可随时联系我们获得帮助。</a><br><img src="https://www.huorong.cn/d/file/2020-04-09/f8e48d3f354cda3b028daceae20cd215.png"><br>此外，为避免不必要的风险，我们不建议大家使用WannaRen勒索病毒作者制作的解密工具自行解密文件。</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;&lt;code&gt;Tips：本文来自火绒安全，原文地址&lt;a href=&quot;https://www.huorong.cn/info/1586440740454.htm
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;&lt;code&gt;Tips：本文来自火绒安全，原文地址&lt;a href=&quot;https://www.huorong.cn/info/1586440740454.htm
       
     
     </summary>
@@ -331,13 +331,13 @@
     <published>2020-04-12T10:37:16.742Z</published>
     <updated>2020-04-12T10:37:16.742Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><p><code>Tips：本文来自火绒安全，原文地址<a href="https://www.huorong.cn/info/1586414080453.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586414080453.html</a></code></p><p>4月9日，“WannaRen”勒索病毒作者通过多方主动联系到火绒，并提供了相关解密密钥。经火绒工程师分析后，验证密钥有效，稍后我们也会发布针对该病毒的解密工具，欢迎关注火绒各官方平台随时获悉通知。被该病毒攻击加密文件的用户也可以随时联系我们获取帮助。</p><p>此外，我们也将在文末公布该密钥，分享给广大安全同行和专业团队，共同开发解密工具，帮助遭遇该病毒的用户解决问题，挽回损失。<br><img src="https://www.huorong.cn/d/file/2020-04-09/f45eb43b4b2c93c56e8be44eabf3d17a.jpg"></p><p>（文中“火绒工作室****@huorong.ltd”为用户私人邮箱）</p><p>9日上午，一名火绒用户以解密为由，通过邮件尝试联系“WannaRen”勒索病毒作者获取更多信息。该作者在要求火绒用户支付比特币作为赎金未果后，竟主动提供病毒解密钥匙，并要求该火绒用户将密钥转发给火绒团队，制作“相应解密程序”。</p><p>从上述邮件可以看出，该病毒作者在使用英语进行交流后，又使用了中文进行沟通，再加上火绒此前披露该病毒使用易语言编写的情况来看，极有可能为国人所为。</p><p>至此，随着事件发酵，各媒体、安全厂商进行了大量的曝光和溯源调查，截止目前，该病毒作者提供的比特币钱包未收到任何赎金，而该作者也已经停止下发、传播“WannaRen”勒索病毒。</p><p>附1、WannaRen勒索病毒解密密钥<br><code>-----BEGIN RSA PRIVATE KEY-----</code></p><p>MIIEowIBAAKCAQEAxTC/Igjuybr1QbQ1RmD9YxpzVnJKIkgvYpBrBzhsczHQ8WeC</p><p>7ikmC5jTbum1eCxTFTxvtnONEy2qDbnSS5fbK/lxYExj6aDLKzQxXCOVSdSQCesW</p><p>g1i5AAdUC9S246sdS9VKxT0QL24I+SG+ixckBhcB+ww6z47ACegoH0aLDwvRvehZ</p><p>Ycc1qFr1lhRXQpHunrlg4WRphH5xBbszOI+dFRDOpprnbN56CHoLb0q1SzzV3ZFA</p><p>FF6Df68Pux1wMHwEXbULRHo5AIZJPJq8L9ThWVsj6v42jAjJQ8m8bRh0+Jz4Rohk</p><p>WwPgL+VFxDG2AiiCU5/yLNoQX0JM9VWBxy6Z3QIDAQABAoIBADi/KoH06CMNtn7O</p><p>CXbTepgGiKKcCVGMTHak8OgHCM6ty19tVnSLSvOTa2VDxIFs4AwAdHWhEzwtq/5/</p><p>N1GhxeUFx+balPYq28z3HC1T4CZ7EWiJStVJtxOXCEzPTkJ+f9PO8dGJHRtJIzPu</p><p>zhLg+fD2tg81GceZYRJ4yPMXLfWKA5DmGkRv/1Usq5zvMClLdrmw/q2rnCbRLdeE</p><p>EAzSAi9kqsnEaZKfCbXb/gby+bUwAgn7mxs+CJ611hzD/r2w9dgXkaUJYuKRRv+B</p><p>GlQHBRQ7hXogkIzeaGqmw8M3xko7xzADsytFYxt2Kthuww2YV4E6Q1Hl4bBW0q+g</p><p>w+jSolECgYEA0Tnns+LaqMd5KCQiyWlCodQ2DtOMOefhIrJbRhdAkAq6FtVICxkL</p><p>nIJL0gmo4T/zDaMr8vsn7Ck+wLjXUsYt1/EulLtVnuH76FU0PkjJqBdre5Gjf23/</p><p>YGHW7DJEoH3p/7DIgV4+wXPu6dD+8eECqwm1hLACOxkfZnOFZ1VGxeMCgYEA8UYH</p><p>jaA69ILlz0TzDzoRdTmam6RDqjsVO/bwaSChGphV0dicKue25iUUDj87a1yLU5Nq</p><p>t0Kt0w1FL/iile1Eu4fe4ryukPGw2jAZh/xq7i2RRSFLXim5an9AbBVQ55478AJa</p><p>sTaIOSoODgBspsBLShnXQRKEfwYPv2GthhcJLT8CgYAssRDERQ3uBYXkxCtGGJzq</p><p>Enllm1yVtelKTwzeIPNikVgErpRQAo6PZOmrOPMBAnb5j8RAh9OUR48m/ZTJEpoS</p><p>SWtoy8dTQ/RaQXECaOviYvZLk+V3v9hQDzYoh+hO2/aS7oE12RrQmeILwd/jbOvz</p><p>+wPyDuK7GvexG7YAR5/xfwKBgQCA8p6C0MnxeCv+dKk60BwYfKrm2AnZ5y3YGIgw</p><p>h2HS5uum9Y+xVpnnspVfb+f/3zwPdNAqFZb1HziFBOtQGbkMSPeUUqcxjBqq4d4j</p><p>UYKMvQnQ2pR/ROl1w4DYwyO0RlteUMPLxotTkehlD1ECZe9XMSxb+NubT9AGxtuI</p><p>uLMM3QKBgGl0mYCgCVHi4kJeBIgabGqbS2PuRr1uogAI7O2b/HQh5NAIaNEqJfUa</p><p>aTKS5WzQ6lJwhRLpA6Un38RDWHUGVnEmm8/vF50f74igTMgSddjPwpWEf3NPdu0Z</p><p>UIfJd1hd77BYLviBVYft1diwIK3ypPLzhRhsBSp7RL2L6w0/Y9rf</p><p>-----END RSA PRIVATE KEY-----</p><p>附2、火绒相关报道：</p><p>《WannaRen勒索病毒溯源新进展 或通过下载站大量传播》</p><p><a href="https://www.huorong.cn/info/1586357607452.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586357607452.html</a></p><p>《确诊了！网传WannaRen勒索病毒样本实为解密工具》</p><p><a href="https://www.huorong.cn/info/1586325928451.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586325928451.html</a></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><p><code>Tips：本文来自火绒安全，原文地址<a href="https://www.huorong.cn/info/1586414080453.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586414080453.html</a></code></p><p>4月9日，“WannaRen”勒索病毒作者通过多方主动联系到火绒，并提供了相关解密密钥。经火绒工程师分析后，验证密钥有效，稍后我们也会发布针对该病毒的解密工具，欢迎关注火绒各官方平台随时获悉通知。被该病毒攻击加密文件的用户也可以随时联系我们获取帮助。</p><p>此外，我们也将在文末公布该密钥，分享给广大安全同行和专业团队，共同开发解密工具，帮助遭遇该病毒的用户解决问题，挽回损失。<br><img src="https://www.huorong.cn/d/file/2020-04-09/f45eb43b4b2c93c56e8be44eabf3d17a.jpg"></p><p>（文中“火绒工作室****@huorong.ltd”为用户私人邮箱）</p><p>9日上午，一名火绒用户以解密为由，通过邮件尝试联系“WannaRen”勒索病毒作者获取更多信息。该作者在要求火绒用户支付比特币作为赎金未果后，竟主动提供病毒解密钥匙，并要求该火绒用户将密钥转发给火绒团队，制作“相应解密程序”。</p><p>从上述邮件可以看出，该病毒作者在使用英语进行交流后，又使用了中文进行沟通，再加上火绒此前披露该病毒使用易语言编写的情况来看，极有可能为国人所为。</p><p>至此，随着事件发酵，各媒体、安全厂商进行了大量的曝光和溯源调查，截止目前，该病毒作者提供的比特币钱包未收到任何赎金，而该作者也已经停止下发、传播“WannaRen”勒索病毒。</p><p>附1、WannaRen勒索病毒解密密钥<br><code>-----BEGIN RSA PRIVATE KEY-----</code></p><p>MIIEowIBAAKCAQEAxTC/Igjuybr1QbQ1RmD9YxpzVnJKIkgvYpBrBzhsczHQ8WeC</p><p>7ikmC5jTbum1eCxTFTxvtnONEy2qDbnSS5fbK/lxYExj6aDLKzQxXCOVSdSQCesW</p><p>g1i5AAdUC9S246sdS9VKxT0QL24I+SG+ixckBhcB+ww6z47ACegoH0aLDwvRvehZ</p><p>Ycc1qFr1lhRXQpHunrlg4WRphH5xBbszOI+dFRDOpprnbN56CHoLb0q1SzzV3ZFA</p><p>FF6Df68Pux1wMHwEXbULRHo5AIZJPJq8L9ThWVsj6v42jAjJQ8m8bRh0+Jz4Rohk</p><p>WwPgL+VFxDG2AiiCU5/yLNoQX0JM9VWBxy6Z3QIDAQABAoIBADi/KoH06CMNtn7O</p><p>CXbTepgGiKKcCVGMTHak8OgHCM6ty19tVnSLSvOTa2VDxIFs4AwAdHWhEzwtq/5/</p><p>N1GhxeUFx+balPYq28z3HC1T4CZ7EWiJStVJtxOXCEzPTkJ+f9PO8dGJHRtJIzPu</p><p>zhLg+fD2tg81GceZYRJ4yPMXLfWKA5DmGkRv/1Usq5zvMClLdrmw/q2rnCbRLdeE</p><p>EAzSAi9kqsnEaZKfCbXb/gby+bUwAgn7mxs+CJ611hzD/r2w9dgXkaUJYuKRRv+B</p><p>GlQHBRQ7hXogkIzeaGqmw8M3xko7xzADsytFYxt2Kthuww2YV4E6Q1Hl4bBW0q+g</p><p>w+jSolECgYEA0Tnns+LaqMd5KCQiyWlCodQ2DtOMOefhIrJbRhdAkAq6FtVICxkL</p><p>nIJL0gmo4T/zDaMr8vsn7Ck+wLjXUsYt1/EulLtVnuH76FU0PkjJqBdre5Gjf23/</p><p>YGHW7DJEoH3p/7DIgV4+wXPu6dD+8eECqwm1hLACOxkfZnOFZ1VGxeMCgYEA8UYH</p><p>jaA69ILlz0TzDzoRdTmam6RDqjsVO/bwaSChGphV0dicKue25iUUDj87a1yLU5Nq</p><p>t0Kt0w1FL/iile1Eu4fe4ryukPGw2jAZh/xq7i2RRSFLXim5an9AbBVQ55478AJa</p><p>sTaIOSoODgBspsBLShnXQRKEfwYPv2GthhcJLT8CgYAssRDERQ3uBYXkxCtGGJzq</p><p>Enllm1yVtelKTwzeIPNikVgErpRQAo6PZOmrOPMBAnb5j8RAh9OUR48m/ZTJEpoS</p><p>SWtoy8dTQ/RaQXECaOviYvZLk+V3v9hQDzYoh+hO2/aS7oE12RrQmeILwd/jbOvz</p><p>+wPyDuK7GvexG7YAR5/xfwKBgQCA8p6C0MnxeCv+dKk60BwYfKrm2AnZ5y3YGIgw</p><p>h2HS5uum9Y+xVpnnspVfb+f/3zwPdNAqFZb1HziFBOtQGbkMSPeUUqcxjBqq4d4j</p><p>UYKMvQnQ2pR/ROl1w4DYwyO0RlteUMPLxotTkehlD1ECZe9XMSxb+NubT9AGxtuI</p><p>uLMM3QKBgGl0mYCgCVHi4kJeBIgabGqbS2PuRr1uogAI7O2b/HQh5NAIaNEqJfUa</p><p>aTKS5WzQ6lJwhRLpA6Un38RDWHUGVnEmm8/vF50f74igTMgSddjPwpWEf3NPdu0Z</p><p>UIfJd1hd77BYLviBVYft1diwIK3ypPLzhRhsBSp7RL2L6w0/Y9rf</p><p>-----END RSA PRIVATE KEY-----</p><p>附2、火绒相关报道：</p><p>《WannaRen勒索病毒溯源新进展 或通过下载站大量传播》</p><p><a href="https://www.huorong.cn/info/1586357607452.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586357607452.html</a></p><p>《确诊了！网传WannaRen勒索病毒样本实为解密工具》</p><p><a href="https://www.huorong.cn/info/1586325928451.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586325928451.html</a></p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;p&gt;&lt;code&gt;Tips：本文来自火绒安全，原文地址&lt;a href=&quot;https://www.huorong.cn/info/1586414080453.htm
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;p&gt;&lt;code&gt;Tips：本文来自火绒安全，原文地址&lt;a href=&quot;https://www.huorong.cn/info/1586414080453.htm
       
     
     </summary>
@@ -353,13 +353,13 @@
     <published>2020-04-12T06:14:37.000Z</published>
     <updated>2020-04-12T06:16:20.800Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --><h3>欢迎来到我的博客，这只是一个测试页面～这怕不是第N次这样了…<h3></h3></h3><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --><h3>欢迎来到我的博客，这只是一个测试页面～这怕不是第N次这样了…<h3></h3></h3><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Apr 23 2020 21:04:47 GMT+0800 (CST) --&gt;&lt;h3&gt;欢迎来到我的博客，这只是一个测试页面～这怕不是第N次这样了…&lt;h3&gt;&lt;/h3&gt;&lt;/h3&gt;&lt;!-- rebuild by neat --&gt;
+        &lt;!-- build time:Thu Apr 23 2020 21:06:00 GMT+0800 (CST) --&gt;&lt;h3&gt;欢迎来到我的博客，这只是一个测试页面～这怕不是第N次这样了…&lt;h3&gt;&lt;/h3&gt;&lt;/h3&gt;&lt;!-- rebuild by neat --&gt;
       
     
     </summary>
