@@ -40,4 +40,6 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /go
+Disallow: /*.jpg
+Disallow: /robots.txt
 Sitemap: https://www.yfblog.ml/sitemap.xml
