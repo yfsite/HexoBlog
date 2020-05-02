@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yfblog.ml/"/>
-  <updated>2020-05-02T00:47:37.782Z</updated>
+  <updated>2020-05-02T00:57:19.754Z</updated>
   <id>https://www.yfblog.ml/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>写一个营销号文案生成器的全过程（HTML-CSS-JS）</title>
+    <link href="https://www.yfblog.ml/posts/4beda91a.htm"/>
+    <id>https://www.yfblog.ml/posts/4beda91a.htm</id>
+    <published>2020-05-02T00:57:19.754Z</published>
+    <updated>2020-05-02T00:57:19.754Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Sat May 02 2020 08:57:26 GMT+0800 (CST) --><p>今天终于务正业了？</p><p>这次，写点奇怪的！用HTML+CSS+JS写一个营销号文案生成器</p><p>文案生成器，就得先去找一个营销号文案模板了！</p><p>这是我从别人弄的网站找的营销号文案：</p><p>主体事件是怎么回事呢？主体相信大家都很熟悉，但是主体事件是怎么回事呢，下面就让小编带大家一起了解吧。主体事件，其实就是其实就是什么，大家可能会很惊讶主体怎么会事件呢？但事实就是这样，小编也感到非常惊讶。这就是关于主体事件的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！</p><p>现在，就可以打开编辑器，开始写一下页面，美化一下之后写主体JS了！</p><p>这套源码会在文末保留一段时间，也请不要用于商业用途，请想想是别人花了多久时间所写的！</p><p>页面差不多，在HEAD部分先引用一个jQuery。</p><p><code>&lt;script src="<a href="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js&quot;" target="_blank" rel="noopener">https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js&quot;</a> charset="utf-8"&gt;&lt;/script&gt;</code></p><p>页面写完，开始主体部分（JavaScript）</p><p>图片砍掉了QWQ！源码可以联系我要～</p><p>测试地址：<a href="https://yf.kka.pub/1001.html" target="_blank" rel="noopener">https://yf.kka.pub/1001.html</a></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat May 02 2020 08:57:26 GMT+0800 (CST) --&gt;&lt;p&gt;今天终于务正业了？&lt;/p&gt;&lt;p&gt;这次，写点奇怪的！用HTML+CSS+JS写一个营销号文案生成器&lt;/p&gt;&lt;p&gt;文案生成器，就得先去找一个营销号文案模板了！&lt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>分享一个免费云存储（外链）</title>
@@ -30,28 +52,6 @@
       
       
         &lt;!-- build time:Sat May 02 2020 08:49:38 GMT+0800 (CST) --&gt;&lt;p&gt;目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！&lt;/p&gt;&lt;p&gt;目前看最大上传大小好像是1025M，原文M
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>百度骨灰给你杨咯</title>
-    <link href="https://www.yfblog.ml/posts/d2014378.htm"/>
-    <id>https://www.yfblog.ml/posts/d2014378.htm</id>
-    <published>2020-05-02T00:47:37.782Z</published>
-    <updated>2020-05-02T00:47:37.782Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Sat May 02 2020 08:49:38 GMT+0800 (CST) --><p>今天Pandownload PC版作者被抓</p><p>百度你的良心何在？？</p><p>限速1KB/S还有脸</p><p>老子永远不用百度</p><p>推荐使用Bing或者Google！</p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Sat May 02 2020 08:49:38 GMT+0800 (CST) --&gt;&lt;p&gt;今天Pandownload PC版作者被抓&lt;/p&gt;&lt;p&gt;百度你的良心何在？？&lt;/p&gt;&lt;p&gt;限速1KB/S还有脸&lt;/p&gt;&lt;p&gt;老子永远不用百度&lt;/p&gt;&lt;p&gt;推
       
     
     </summary>
@@ -171,19 +171,19 @@
   </entry>
   
   <entry>
-    <title>写一个营销号文案生成器的全过程（HTML-CSS-JS）</title>
-    <link href="https://www.yfblog.ml/posts/4beda91a.htm"/>
-    <id>https://www.yfblog.ml/posts/4beda91a.htm</id>
+    <title>百度骨灰给你杨咯</title>
+    <link href="https://www.yfblog.ml/posts/d2014378.htm"/>
+    <id>https://www.yfblog.ml/posts/d2014378.htm</id>
     <published>2020-05-02T00:47:37.782Z</published>
     <updated>2020-05-02T00:47:37.782Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Sat May 02 2020 08:49:38 GMT+0800 (CST) --><p>今天终于务正业了？</p><p>这次，写点奇怪的！用HTML+CSS+JS写一个营销号文案生成器</p><p>文案生成器，就得先去找一个营销号文案模板了！</p><p>这是我从别人弄的网站找的营销号文案：</p><p>主体事件是怎么回事呢？主体相信大家都很熟悉，但是主体事件是怎么回事呢，下面就让小编带大家一起了解吧。主体事件，其实就是其实就是什么，大家可能会很惊讶主体怎么会事件呢？但事实就是这样，小编也感到非常惊讶。这就是关于主体事件的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！</p><p>现在，就可以打开编辑器，开始写一下页面，美化一下之后写主体JS了！</p><p>这套源码会在文末保留一段时间，也请不要用于商业用途，请想想是别人花了多久时间所写的！</p><p>页面差不多，在HEAD部分先引用一个jQuery。</p><p><code>&lt;script src="<a href="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js&quot;" target="_blank" rel="noopener">https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js&quot;</a> charset="utf-8"&gt;&lt;/script&gt;</code></p><p>页面写完，开始主体部分（JavaScript）</p><p>图片砍掉了QWQ！源码可以联系我要～</p><p>测试地址：<a href="http://yf.kka.pub/1001.html" target="_blank" rel="noopener">http://yf.kka.pub/1001.html</a></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Sat May 02 2020 08:49:38 GMT+0800 (CST) --><p>今天Pandownload PC版作者被抓</p><p>百度你的良心何在？？</p><p>限速1KB/S还有脸</p><p>老子永远不用百度</p><p>推荐使用Bing或者Google！</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sat May 02 2020 08:49:38 GMT+0800 (CST) --&gt;&lt;p&gt;今天终于务正业了？&lt;/p&gt;&lt;p&gt;这次，写点奇怪的！用HTML+CSS+JS写一个营销号文案生成器&lt;/p&gt;&lt;p&gt;文案生成器，就得先去找一个营销号文案模板了！&lt;
+        &lt;!-- build time:Sat May 02 2020 08:49:38 GMT+0800 (CST) --&gt;&lt;p&gt;今天Pandownload PC版作者被抓&lt;/p&gt;&lt;p&gt;百度你的良心何在？？&lt;/p&gt;&lt;p&gt;限速1KB/S还有脸&lt;/p&gt;&lt;p&gt;老子永远不用百度&lt;/p&gt;&lt;p&gt;推
       
     
     </summary>
