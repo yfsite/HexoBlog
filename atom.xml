@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yfblog.ml/"/>
-  <updated>2020-05-04T00:10:51.591Z</updated>
+  <updated>2020-05-04T23:39:15.172Z</updated>
   <id>https://www.yfblog.ml/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://www.yfblog.ml/posts/366a0b2.htm"/>
     <id>https://www.yfblog.ml/posts/366a0b2.htm</id>
     <published>2020-05-04T00:06:21.000Z</published>
-    <updated>2020-05-04T00:10:51.591Z</updated>
+    <updated>2020-05-04T23:39:15.172Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Mon May 04 2020 08:10:59 GMT+0800 (CST) --><p>今天给大家提供一个免费图床，限制游客一天10张图片，图片大小最大5M～</p><p>今天折腾了一早上，终于选择了Imgurl的源码<img src="https://ae01.alicdn.com/kf/Hea0e5ca4d1ef429aabe2ba03357e5fffp.jpg" width="25" height="25">，套了Cloudflare，也启动了HSTS，请放心使用awa!</p><p>废话不多说了，直接上地址：<a href="https://88355.me/" target="_blank" rel="noopener">https://88355.me/</a></p><p>其实搭建也很简单，下载Imgurl的源码丢到主机上安装就能用啦！地址可以找找，免费版也足够了～</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Tue May 05 2020 07:39:39 GMT+0800 (CST) --><p>今天给大家提供一个免费图床，限制游客一天10张图片，图片大小最大5M～</p><p>今天折腾了一早上，终于选择了Imgurl的源码<img src="https://ae01.alicdn.com/kf/Hea0e5ca4d1ef429aabe2ba03357e5fffp.jpg" width="25" height="25">，套了Cloudflare，也启动了HSTS，请放心使用awa!</p><p>废话不多说了，直接上地址：<a href="http://tchu.22web.org/" target="_blank" rel="noopener">http://tchu.22web.org/</a></p><p>其实搭建也很简单，下载Imgurl的源码丢到主机上安装就能用啦！地址可以找找，免费版也足够了～</p><p>这主机是英国，难免有点慢，见谅</p><p>还有一个法国，最多撑一年的，服务器空间也小，省着用，长久请用英国，谢谢！地址<a href="https://88355.me/" target="_blank" rel="noopener">https://88355.me/</a></p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Mon May 04 2020 08:10:59 GMT+0800 (CST) --&gt;&lt;p&gt;今天给大家提供一个免费图床，限制游客一天10张图片，图片大小最大5M～&lt;/p&gt;&lt;p&gt;今天折腾了一早上，终于选择了Imgurl的源码&lt;img src=&quot;htt
+        &lt;!-- build time:Tue May 05 2020 07:39:39 GMT+0800 (CST) --&gt;&lt;p&gt;今天给大家提供一个免费图床，限制游客一天10张图片，图片大小最大5M～&lt;/p&gt;&lt;p&gt;今天折腾了一早上，终于选择了Imgurl的源码&lt;img src=&quot;htt
       
     
     </summary>
