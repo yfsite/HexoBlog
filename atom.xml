@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yfblog.ml/"/>
-  <updated>2020-05-02T12:36:48.227Z</updated>
+  <updated>2020-05-04T00:10:51.591Z</updated>
   <id>https://www.yfblog.ml/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>刚搭建的免费图床</title>
+    <link href="https://www.yfblog.ml/posts/366a0b2.htm"/>
+    <id>https://www.yfblog.ml/posts/366a0b2.htm</id>
+    <published>2020-05-04T00:06:21.000Z</published>
+    <updated>2020-05-04T00:10:51.591Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Mon May 04 2020 08:10:59 GMT+0800 (CST) --><p>今天给大家提供一个免费图床，限制游客一天10张图片，图片大小最大5M～</p><p>今天折腾了一早上，终于选择了Imgurl的源码<img src="https://ae01.alicdn.com/kf/Hea0e5ca4d1ef429aabe2ba03357e5fffp.jpg" width="25" height="25">，套了Cloudflare，也启动了HSTS，请放心使用awa!</p><p>废话不多说了，直接上地址：<a href="https://88355.me/" target="_blank" rel="noopener">https://88355.me/</a></p><p>其实搭建也很简单，下载Imgurl的源码丢到主机上安装就能用啦！地址可以找找，免费版也足够了～</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Mon May 04 2020 08:10:59 GMT+0800 (CST) --&gt;&lt;p&gt;今天给大家提供一个免费图床，限制游客一天10张图片，图片大小最大5M～&lt;/p&gt;&lt;p&gt;今天折腾了一早上，终于选择了Imgurl的源码&lt;img src=&quot;htt
+      
+    
+    </summary>
+    
+    
+    
+      <category term="图床" scheme="https://www.yfblog.ml/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>关于文章顺序和时间乱了的原因</title>
@@ -59,28 +83,6 @@
     
     
       <category term="Web前端" scheme="https://www.yfblog.ml/tags/Web%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>他来了！WannaRen勒索病毒作者主动提供解密密钥</title>
-    <link href="https://www.yfblog.ml/posts/22d56c2e.htm"/>
-    <id>https://www.yfblog.ml/posts/22d56c2e.htm</id>
-    <published>2020-05-02T00:47:37.782Z</published>
-    <updated>2020-05-02T00:47:37.782Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Sat May 02 2020 09:10:35 GMT+0800 (CST) --><p><code>Tips：本文来自火绒安全，原文地址<a href="https://www.huorong.cn/info/1586414080453.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586414080453.html</a></code></p><p>4月9日，“WannaRen”勒索病毒作者通过多方主动联系到火绒，并提供了相关解密密钥。经火绒工程师分析后，验证密钥有效，稍后我们也会发布针对该病毒的解密工具，欢迎关注火绒各官方平台随时获悉通知。被该病毒攻击加密文件的用户也可以随时联系我们获取帮助。</p><p>此外，我们也将在文末公布该密钥，分享给广大安全同行和专业团队，共同开发解密工具，帮助遭遇该病毒的用户解决问题，挽回损失。<br><img src="https://www.huorong.cn/d/file/2020-04-09/f45eb43b4b2c93c56e8be44eabf3d17a.jpg"></p><p>（文中“火绒工作室****@huorong.ltd”为用户私人邮箱）</p><p>9日上午，一名火绒用户以解密为由，通过邮件尝试联系“WannaRen”勒索病毒作者获取更多信息。该作者在要求火绒用户支付比特币作为赎金未果后，竟主动提供病毒解密钥匙，并要求该火绒用户将密钥转发给火绒团队，制作“相应解密程序”。</p><p>从上述邮件可以看出，该病毒作者在使用英语进行交流后，又使用了中文进行沟通，再加上火绒此前披露该病毒使用易语言编写的情况来看，极有可能为国人所为。</p><p>至此，随着事件发酵，各媒体、安全厂商进行了大量的曝光和溯源调查，截止目前，该病毒作者提供的比特币钱包未收到任何赎金，而该作者也已经停止下发、传播“WannaRen”勒索病毒。</p><p>附1、WannaRen勒索病毒解密密钥<br><code>-----BEGIN RSA PRIVATE KEY-----</code></p><p>MIIEowIBAAKCAQEAxTC/Igjuybr1QbQ1RmD9YxpzVnJKIkgvYpBrBzhsczHQ8WeC</p><p>7ikmC5jTbum1eCxTFTxvtnONEy2qDbnSS5fbK/lxYExj6aDLKzQxXCOVSdSQCesW</p><p>g1i5AAdUC9S246sdS9VKxT0QL24I+SG+ixckBhcB+ww6z47ACegoH0aLDwvRvehZ</p><p>Ycc1qFr1lhRXQpHunrlg4WRphH5xBbszOI+dFRDOpprnbN56CHoLb0q1SzzV3ZFA</p><p>FF6Df68Pux1wMHwEXbULRHo5AIZJPJq8L9ThWVsj6v42jAjJQ8m8bRh0+Jz4Rohk</p><p>WwPgL+VFxDG2AiiCU5/yLNoQX0JM9VWBxy6Z3QIDAQABAoIBADi/KoH06CMNtn7O</p><p>CXbTepgGiKKcCVGMTHak8OgHCM6ty19tVnSLSvOTa2VDxIFs4AwAdHWhEzwtq/5/</p><p>N1GhxeUFx+balPYq28z3HC1T4CZ7EWiJStVJtxOXCEzPTkJ+f9PO8dGJHRtJIzPu</p><p>zhLg+fD2tg81GceZYRJ4yPMXLfWKA5DmGkRv/1Usq5zvMClLdrmw/q2rnCbRLdeE</p><p>EAzSAi9kqsnEaZKfCbXb/gby+bUwAgn7mxs+CJ611hzD/r2w9dgXkaUJYuKRRv+B</p><p>GlQHBRQ7hXogkIzeaGqmw8M3xko7xzADsytFYxt2Kthuww2YV4E6Q1Hl4bBW0q+g</p><p>w+jSolECgYEA0Tnns+LaqMd5KCQiyWlCodQ2DtOMOefhIrJbRhdAkAq6FtVICxkL</p><p>nIJL0gmo4T/zDaMr8vsn7Ck+wLjXUsYt1/EulLtVnuH76FU0PkjJqBdre5Gjf23/</p><p>YGHW7DJEoH3p/7DIgV4+wXPu6dD+8eECqwm1hLACOxkfZnOFZ1VGxeMCgYEA8UYH</p><p>jaA69ILlz0TzDzoRdTmam6RDqjsVO/bwaSChGphV0dicKue25iUUDj87a1yLU5Nq</p><p>t0Kt0w1FL/iile1Eu4fe4ryukPGw2jAZh/xq7i2RRSFLXim5an9AbBVQ55478AJa</p><p>sTaIOSoODgBspsBLShnXQRKEfwYPv2GthhcJLT8CgYAssRDERQ3uBYXkxCtGGJzq</p><p>Enllm1yVtelKTwzeIPNikVgErpRQAo6PZOmrOPMBAnb5j8RAh9OUR48m/ZTJEpoS</p><p>SWtoy8dTQ/RaQXECaOviYvZLk+V3v9hQDzYoh+hO2/aS7oE12RrQmeILwd/jbOvz</p><p>+wPyDuK7GvexG7YAR5/xfwKBgQCA8p6C0MnxeCv+dKk60BwYfKrm2AnZ5y3YGIgw</p><p>h2HS5uum9Y+xVpnnspVfb+f/3zwPdNAqFZb1HziFBOtQGbkMSPeUUqcxjBqq4d4j</p><p>UYKMvQnQ2pR/ROl1w4DYwyO0RlteUMPLxotTkehlD1ECZe9XMSxb+NubT9AGxtuI</p><p>uLMM3QKBgGl0mYCgCVHi4kJeBIgabGqbS2PuRr1uogAI7O2b/HQh5NAIaNEqJfUa</p><p>aTKS5WzQ6lJwhRLpA6Un38RDWHUGVnEmm8/vF50f74igTMgSddjPwpWEf3NPdu0Z</p><p>UIfJd1hd77BYLviBVYft1diwIK3ypPLzhRhsBSp7RL2L6w0/Y9rf</p><p>-----END RSA PRIVATE KEY-----</p><p>附2、火绒相关报道：</p><p>《WannaRen勒索病毒溯源新进展 或通过下载站大量传播》</p><p><a href="https://www.huorong.cn/info/1586357607452.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586357607452.html</a></p><p>《确诊了！网传WannaRen勒索病毒样本实为解密工具》</p><p><a href="https://www.huorong.cn/info/1586325928451.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586325928451.html</a></p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Sat May 02 2020 09:10:35 GMT+0800 (CST) --&gt;&lt;p&gt;&lt;code&gt;Tips：本文来自火绒安全，原文地址&lt;a href=&quot;https://www.huorong.cn/info/1586414080453.htm
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
@@ -151,19 +153,19 @@
   </entry>
   
   <entry>
-    <title>软件分享-护卫神主机管理</title>
-    <link href="https://www.yfblog.ml/posts/4feb422e.htm"/>
-    <id>https://www.yfblog.ml/posts/4feb422e.htm</id>
+    <title>他来了！WannaRen勒索病毒作者主动提供解密密钥</title>
+    <link href="https://www.yfblog.ml/posts/22d56c2e.htm"/>
+    <id>https://www.yfblog.ml/posts/22d56c2e.htm</id>
     <published>2020-05-02T00:47:37.782Z</published>
     <updated>2020-05-02T00:47:37.782Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Sat May 02 2020 09:10:35 GMT+0800 (CST) --><p>分享个主机管理系统</p><p>我现在网站状态那个网站就是用护卫神+护卫神前台源码魔改的</p><p>我感觉比原来IIS好操作点，如果拿来销售或者是嫌IIS难用可以下载来试试哦～</p><p>[图片被我砍咯～]</p><p>[图片被我砍咯～]</p><p>[图片被我砍咯～]</p><p>[图片被我砍咯～]</p><p>下载地址：<a href="https://boke.hy0.site/hws.exe" download="https://boke.hy0.site/hws.exe" target="_blank">点我下载/EXE文件/HWS.EXE</a></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Sat May 02 2020 09:10:35 GMT+0800 (CST) --><p><code>Tips：本文来自火绒安全，原文地址<a href="https://www.huorong.cn/info/1586414080453.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586414080453.html</a></code></p><p>4月9日，“WannaRen”勒索病毒作者通过多方主动联系到火绒，并提供了相关解密密钥。经火绒工程师分析后，验证密钥有效，稍后我们也会发布针对该病毒的解密工具，欢迎关注火绒各官方平台随时获悉通知。被该病毒攻击加密文件的用户也可以随时联系我们获取帮助。</p><p>此外，我们也将在文末公布该密钥，分享给广大安全同行和专业团队，共同开发解密工具，帮助遭遇该病毒的用户解决问题，挽回损失。<br><img src="https://www.huorong.cn/d/file/2020-04-09/f45eb43b4b2c93c56e8be44eabf3d17a.jpg"></p><p>（文中“火绒工作室****@huorong.ltd”为用户私人邮箱）</p><p>9日上午，一名火绒用户以解密为由，通过邮件尝试联系“WannaRen”勒索病毒作者获取更多信息。该作者在要求火绒用户支付比特币作为赎金未果后，竟主动提供病毒解密钥匙，并要求该火绒用户将密钥转发给火绒团队，制作“相应解密程序”。</p><p>从上述邮件可以看出，该病毒作者在使用英语进行交流后，又使用了中文进行沟通，再加上火绒此前披露该病毒使用易语言编写的情况来看，极有可能为国人所为。</p><p>至此，随着事件发酵，各媒体、安全厂商进行了大量的曝光和溯源调查，截止目前，该病毒作者提供的比特币钱包未收到任何赎金，而该作者也已经停止下发、传播“WannaRen”勒索病毒。</p><p>附1、WannaRen勒索病毒解密密钥<br><code>-----BEGIN RSA PRIVATE KEY-----</code></p><p>MIIEowIBAAKCAQEAxTC/Igjuybr1QbQ1RmD9YxpzVnJKIkgvYpBrBzhsczHQ8WeC</p><p>7ikmC5jTbum1eCxTFTxvtnONEy2qDbnSS5fbK/lxYExj6aDLKzQxXCOVSdSQCesW</p><p>g1i5AAdUC9S246sdS9VKxT0QL24I+SG+ixckBhcB+ww6z47ACegoH0aLDwvRvehZ</p><p>Ycc1qFr1lhRXQpHunrlg4WRphH5xBbszOI+dFRDOpprnbN56CHoLb0q1SzzV3ZFA</p><p>FF6Df68Pux1wMHwEXbULRHo5AIZJPJq8L9ThWVsj6v42jAjJQ8m8bRh0+Jz4Rohk</p><p>WwPgL+VFxDG2AiiCU5/yLNoQX0JM9VWBxy6Z3QIDAQABAoIBADi/KoH06CMNtn7O</p><p>CXbTepgGiKKcCVGMTHak8OgHCM6ty19tVnSLSvOTa2VDxIFs4AwAdHWhEzwtq/5/</p><p>N1GhxeUFx+balPYq28z3HC1T4CZ7EWiJStVJtxOXCEzPTkJ+f9PO8dGJHRtJIzPu</p><p>zhLg+fD2tg81GceZYRJ4yPMXLfWKA5DmGkRv/1Usq5zvMClLdrmw/q2rnCbRLdeE</p><p>EAzSAi9kqsnEaZKfCbXb/gby+bUwAgn7mxs+CJ611hzD/r2w9dgXkaUJYuKRRv+B</p><p>GlQHBRQ7hXogkIzeaGqmw8M3xko7xzADsytFYxt2Kthuww2YV4E6Q1Hl4bBW0q+g</p><p>w+jSolECgYEA0Tnns+LaqMd5KCQiyWlCodQ2DtOMOefhIrJbRhdAkAq6FtVICxkL</p><p>nIJL0gmo4T/zDaMr8vsn7Ck+wLjXUsYt1/EulLtVnuH76FU0PkjJqBdre5Gjf23/</p><p>YGHW7DJEoH3p/7DIgV4+wXPu6dD+8eECqwm1hLACOxkfZnOFZ1VGxeMCgYEA8UYH</p><p>jaA69ILlz0TzDzoRdTmam6RDqjsVO/bwaSChGphV0dicKue25iUUDj87a1yLU5Nq</p><p>t0Kt0w1FL/iile1Eu4fe4ryukPGw2jAZh/xq7i2RRSFLXim5an9AbBVQ55478AJa</p><p>sTaIOSoODgBspsBLShnXQRKEfwYPv2GthhcJLT8CgYAssRDERQ3uBYXkxCtGGJzq</p><p>Enllm1yVtelKTwzeIPNikVgErpRQAo6PZOmrOPMBAnb5j8RAh9OUR48m/ZTJEpoS</p><p>SWtoy8dTQ/RaQXECaOviYvZLk+V3v9hQDzYoh+hO2/aS7oE12RrQmeILwd/jbOvz</p><p>+wPyDuK7GvexG7YAR5/xfwKBgQCA8p6C0MnxeCv+dKk60BwYfKrm2AnZ5y3YGIgw</p><p>h2HS5uum9Y+xVpnnspVfb+f/3zwPdNAqFZb1HziFBOtQGbkMSPeUUqcxjBqq4d4j</p><p>UYKMvQnQ2pR/ROl1w4DYwyO0RlteUMPLxotTkehlD1ECZe9XMSxb+NubT9AGxtuI</p><p>uLMM3QKBgGl0mYCgCVHi4kJeBIgabGqbS2PuRr1uogAI7O2b/HQh5NAIaNEqJfUa</p><p>aTKS5WzQ6lJwhRLpA6Un38RDWHUGVnEmm8/vF50f74igTMgSddjPwpWEf3NPdu0Z</p><p>UIfJd1hd77BYLviBVYft1diwIK3ypPLzhRhsBSp7RL2L6w0/Y9rf</p><p>-----END RSA PRIVATE KEY-----</p><p>附2、火绒相关报道：</p><p>《WannaRen勒索病毒溯源新进展 或通过下载站大量传播》</p><p><a href="https://www.huorong.cn/info/1586357607452.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586357607452.html</a></p><p>《确诊了！网传WannaRen勒索病毒样本实为解密工具》</p><p><a href="https://www.huorong.cn/info/1586325928451.html" target="_blank" rel="noopener">https://www.huorong.cn/info/1586325928451.html</a></p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sat May 02 2020 09:10:35 GMT+0800 (CST) --&gt;&lt;p&gt;分享个主机管理系统&lt;/p&gt;&lt;p&gt;我现在网站状态那个网站就是用护卫神+护卫神前台源码魔改的&lt;/p&gt;&lt;p&gt;我感觉比原来IIS好操作点，如果拿来销售或者是嫌IIS
+        &lt;!-- build time:Sat May 02 2020 09:10:35 GMT+0800 (CST) --&gt;&lt;p&gt;&lt;code&gt;Tips：本文来自火绒安全，原文地址&lt;a href=&quot;https://www.huorong.cn/info/1586414080453.htm
       
     
     </summary>
@@ -340,6 +342,28 @@
       
       
         &lt;!-- build time:Sat May 02 2020 09:10:35 GMT+0800 (CST) --&gt;&lt;p&gt;直接进正题，我的手机没有插卡，每天凌晨0～5点会有H、D、D类型的短信，而且发件地址为邮箱地址，非常奇怪，有时中文有时英文，大多为AMDC.&lt;/p&gt;&lt;p&gt;各
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>软件分享-护卫神主机管理</title>
+    <link href="https://www.yfblog.ml/posts/4feb422e.htm"/>
+    <id>https://www.yfblog.ml/posts/4feb422e.htm</id>
+    <published>2020-05-02T00:47:37.782Z</published>
+    <updated>2020-05-02T00:47:37.782Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Sat May 02 2020 09:10:35 GMT+0800 (CST) --><p>分享个主机管理系统</p><p>我现在网站状态那个网站就是用护卫神+护卫神前台源码魔改的</p><p>我感觉比原来IIS好操作点，如果拿来销售或者是嫌IIS难用可以下载来试试哦～</p><p>[图片被我砍咯～]</p><p>[图片被我砍咯～]</p><p>[图片被我砍咯～]</p><p>[图片被我砍咯～]</p><p>下载地址：<a href="https://boke.hy0.site/hws.exe" download="https://boke.hy0.site/hws.exe" target="_blank">点我下载/EXE文件/HWS.EXE</a></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat May 02 2020 09:10:35 GMT+0800 (CST) --&gt;&lt;p&gt;分享个主机管理系统&lt;/p&gt;&lt;p&gt;我现在网站状态那个网站就是用护卫神+护卫神前台源码魔改的&lt;/p&gt;&lt;p&gt;我感觉比原来IIS好操作点，如果拿来销售或者是嫌IIS
       
     
     </summary>
