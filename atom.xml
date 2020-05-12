@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yfblog.ml/"/>
-  <updated>2020-05-11T11:45:40.420Z</updated>
+  <updated>2020-05-12T11:18:07.907Z</updated>
   <id>https://www.yfblog.ml/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>国内镜像站</title>
+    <link href="https://www.yfblog.ml/posts/5980fee4.htm"/>
+    <id>https://www.yfblog.ml/posts/5980fee4.htm</id>
+    <published>2020-05-12T11:13:35.000Z</published>
+    <updated>2020-05-12T11:18:07.907Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue May 12 2020 19:18:17 GMT+0800 (CST) --><p>弄了个国内镜像站，佛山线路带端口，如果用这个不快可以试试，但因为不可控因素可能不稳定，所以临时用用就够了。</p><p>地址：<a href="http://jvava.ga:1404/" target="_blank" rel="noopener">http://jvava.ga:1404/</a></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue May 12 2020 19:18:17 GMT+0800 (CST) --&gt;&lt;p&gt;弄了个国内镜像站，佛山线路带端口，如果用这个不快可以试试，但因为不可控因素可能不稳定，所以临时用用就够了。&lt;/p&gt;&lt;p&gt;地址：&lt;a href=&quot;http:/
+      
+    
+    </summary>
+    
+    
+    
+      <category term="网站事情awa" scheme="https://www.yfblog.ml/tags/%E7%BD%91%E7%AB%99%E4%BA%8B%E6%83%85awa/"/>
+    
+  </entry>
   
   <entry>
     <title>软件分享-护卫神主机管理</title>
@@ -111,28 +135,6 @@
   </entry>
   
   <entry>
-    <title>关于为啥博客域名红的，是不是涉H了？</title>
-    <link href="https://www.yfblog.ml/posts/ce55a27a.htm"/>
-    <id>https://www.yfblog.ml/posts/ce55a27a.htm</id>
-    <published>2020-05-02T00:47:37.782Z</published>
-    <updated>2020-05-02T00:47:37.782Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --><p>关于这个吗。。肯定不是！</p><p>我也没有在博客里说什么违法涉H啊？？</p><p>谁是不是用了举报器的，如果申诉一直没过我就得换域名了，所以目前先不启动WWW跳转功能！</p><p>如果大家有空也帮我申诉一下啊……</p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --&gt;&lt;p&gt;关于这个吗。。肯定不是！&lt;/p&gt;&lt;p&gt;我也没有在博客里说什么违法涉H啊？？&lt;/p&gt;&lt;p&gt;谁是不是用了举报器的，如果申诉一直没过我就得换域名了，所以目前先不启
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>一键解密-火绒推出WannaRen勒索病毒解密工具</title>
     <link href="https://www.yfblog.ml/posts/bc644132.htm"/>
     <id>https://www.yfblog.ml/posts/bc644132.htm</id>
@@ -221,41 +223,19 @@
   </entry>
   
   <entry>
-    <title>百度骨灰给你杨咯</title>
-    <link href="https://www.yfblog.ml/posts/d2014378.htm"/>
-    <id>https://www.yfblog.ml/posts/d2014378.htm</id>
+    <title>博客域名更换通知</title>
+    <link href="https://www.yfblog.ml/posts/a9863543.htm"/>
+    <id>https://www.yfblog.ml/posts/a9863543.htm</id>
     <published>2020-05-02T00:47:37.782Z</published>
     <updated>2020-05-02T00:47:37.782Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --><p>今天Pandownload PC版作者被抓</p><p>百度你的良心何在？？</p><p>限速1KB/S还有脸</p><p>老子永远不用百度</p><p>推荐使用Bing或者Google！</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --><p>博客域名更换了，因为以前的域名被举报涉H</p><p>新域名：<a href="https://www.yfblog.ml">https://www.yfblog.ml</a></p><p>原域名过会时间启动跳转.</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --&gt;&lt;p&gt;今天Pandownload PC版作者被抓&lt;/p&gt;&lt;p&gt;百度你的良心何在？？&lt;/p&gt;&lt;p&gt;限速1KB/S还有脸&lt;/p&gt;&lt;p&gt;老子永远不用百度&lt;/p&gt;&lt;p&gt;推
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>分享一个免费云存储（外链）</title>
-    <link href="https://www.yfblog.ml/posts/3c73421d.htm"/>
-    <id>https://www.yfblog.ml/posts/3c73421d.htm</id>
-    <published>2020-05-02T00:47:37.782Z</published>
-    <updated>2020-05-02T00:47:37.782Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --><p>目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！</p><p>目前看最大上传大小好像是1025M，原文Maximum upload size per file is 1025MB</p><p>下面是我的测试：</p><p>地址：<a href="https://dmca.gripe" target="_blank" rel="noopener">https://dmca.gripe</a></p><p>图片测试：</p><img src="https://share.dmca.gripe/mPKM5YMBOQvHWNZI.jpg" width="320" height="133"><p>音频测试：</p><audio src="https://share.dmca.gripe/N7aBQh8CGcuZQYax.mp3" controls>出现这句话说明你浏览器不支持，并不是挂了.</audio><p>视频测试：</p><p>部分原因，取消本测试</p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --&gt;&lt;p&gt;目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！&lt;/p&gt;&lt;p&gt;目前看最大上传大小好像是1025M，原文M
+        &lt;!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --&gt;&lt;p&gt;博客域名更换了，因为以前的域名被举报涉H&lt;/p&gt;&lt;p&gt;新域名：&lt;a href=&quot;https://www.yfblog.ml&quot;&gt;https://www.yfb
       
     
     </summary>
@@ -278,6 +258,28 @@
       
       
         &lt;!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --&gt;&lt;p&gt;刚刚，pandownload作者被抓&lt;/p&gt;&lt;p&gt;下面是我找到的图片：&lt;/p&gt;&lt;img src=&quot;https://s1.ax1x.com/2020/04/1
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一个小小通知（误）</title>
+    <link href="https://www.yfblog.ml/posts/ea535bec.htm"/>
+    <id>https://www.yfblog.ml/posts/ea535bec.htm</id>
+    <published>2020-05-02T00:47:37.782Z</published>
+    <updated>2020-05-02T00:47:37.782Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --><p>以后博客更新不在这里浪费文章</p><p>文章都被刷下去了.</p><p>地址：<a href="https://info.yfblog.ml/default.asp" target="_blank" rel="noopener">https://info.yfblog.ml/default.asp</a></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --&gt;&lt;p&gt;以后博客更新不在这里浪费文章&lt;/p&gt;&lt;p&gt;文章都被刷下去了.&lt;/p&gt;&lt;p&gt;地址：&lt;a href=&quot;https://info.yfblog.ml/defaul
       
     
     </summary>
@@ -331,19 +333,19 @@
   </entry>
   
   <entry>
-    <title>一个小小通知（误）</title>
-    <link href="https://www.yfblog.ml/posts/ea535bec.htm"/>
-    <id>https://www.yfblog.ml/posts/ea535bec.htm</id>
+    <title>百度骨灰给你杨咯</title>
+    <link href="https://www.yfblog.ml/posts/d2014378.htm"/>
+    <id>https://www.yfblog.ml/posts/d2014378.htm</id>
     <published>2020-05-02T00:47:37.782Z</published>
     <updated>2020-05-02T00:47:37.782Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --><p>以后博客更新不在这里浪费文章</p><p>文章都被刷下去了.</p><p>地址：<a href="https://info.yfblog.ml/default.asp" target="_blank" rel="noopener">https://info.yfblog.ml/default.asp</a></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --><p>今天Pandownload PC版作者被抓</p><p>百度你的良心何在？？</p><p>限速1KB/S还有脸</p><p>老子永远不用百度</p><p>推荐使用Bing或者Google！</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --&gt;&lt;p&gt;以后博客更新不在这里浪费文章&lt;/p&gt;&lt;p&gt;文章都被刷下去了.&lt;/p&gt;&lt;p&gt;地址：&lt;a href=&quot;https://info.yfblog.ml/defaul
+        &lt;!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --&gt;&lt;p&gt;今天Pandownload PC版作者被抓&lt;/p&gt;&lt;p&gt;百度你的良心何在？？&lt;/p&gt;&lt;p&gt;限速1KB/S还有脸&lt;/p&gt;&lt;p&gt;老子永远不用百度&lt;/p&gt;&lt;p&gt;推
       
     
     </summary>
@@ -375,19 +377,41 @@
   </entry>
   
   <entry>
-    <title>博客域名更换通知</title>
-    <link href="https://www.yfblog.ml/posts/a9863543.htm"/>
-    <id>https://www.yfblog.ml/posts/a9863543.htm</id>
+    <title>关于为啥博客域名红的，是不是涉H了？</title>
+    <link href="https://www.yfblog.ml/posts/ce55a27a.htm"/>
+    <id>https://www.yfblog.ml/posts/ce55a27a.htm</id>
     <published>2020-05-02T00:47:37.782Z</published>
     <updated>2020-05-02T00:47:37.782Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --><p>博客域名更换了，因为以前的域名被举报涉H</p><p>新域名：<a href="https://www.yfblog.ml">https://www.yfblog.ml</a></p><p>原域名过会时间启动跳转.</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --><p>关于这个吗。。肯定不是！</p><p>我也没有在博客里说什么违法涉H啊？？</p><p>谁是不是用了举报器的，如果申诉一直没过我就得换域名了，所以目前先不启动WWW跳转功能！</p><p>如果大家有空也帮我申诉一下啊……</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --&gt;&lt;p&gt;博客域名更换了，因为以前的域名被举报涉H&lt;/p&gt;&lt;p&gt;新域名：&lt;a href=&quot;https://www.yfblog.ml&quot;&gt;https://www.yfb
+        &lt;!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --&gt;&lt;p&gt;关于这个吗。。肯定不是！&lt;/p&gt;&lt;p&gt;我也没有在博客里说什么违法涉H啊？？&lt;/p&gt;&lt;p&gt;谁是不是用了举报器的，如果申诉一直没过我就得换域名了，所以目前先不启
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>分享一个免费云存储（外链）</title>
+    <link href="https://www.yfblog.ml/posts/3c73421d.htm"/>
+    <id>https://www.yfblog.ml/posts/3c73421d.htm</id>
+    <published>2020-05-02T00:47:37.782Z</published>
+    <updated>2020-05-02T00:47:37.782Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --><p>目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！</p><p>目前看最大上传大小好像是1025M，原文Maximum upload size per file is 1025MB</p><p>下面是我的测试：</p><p>地址：<a href="https://dmca.gripe" target="_blank" rel="noopener">https://dmca.gripe</a></p><p>图片测试：</p><img src="https://share.dmca.gripe/mPKM5YMBOQvHWNZI.jpg" width="320" height="133"><p>音频测试：</p><audio src="https://share.dmca.gripe/N7aBQh8CGcuZQYax.mp3" controls>出现这句话说明你浏览器不支持，并不是挂了.</audio><p>视频测试：</p><p>部分原因，取消本测试</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Mon May 11 2020 06:58:57 GMT+0800 (CST) --&gt;&lt;p&gt;目前看是不会倒，速度连国内不咋样.而且不限制内容，不删除文件，且用且珍惜，不要乱用！上传速度不错的！&lt;/p&gt;&lt;p&gt;目前看最大上传大小好像是1025M，原文M
       
     
     </summary>
